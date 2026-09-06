@@ -1,0 +1,3180 @@
+1
+00:00:00,010 --> 00:00:09,130
+[ Watch on kissFlix.co ]
+
+2
+00:00:09,134 --> 00:00:11,345
+[Victor speaking indistinctly]
+
+3
+00:00:11,428 --> 00:00:12,596
+[tech] <i>Where are you?</i>
+
+4
+00:00:19,102 --> 00:00:21,522
+[laughs]
+
+5
+00:00:21,605 --> 00:00:22,981
+- [gasps]
+- [Victor] Troy?
+
+6
+00:00:25,025 --> 00:00:27,444
+- [panting]
+- [Victor, muffled] Troy?
+
+7
+00:00:27,528 --> 00:00:28,820
+Keep breathing, buddy.
+
+8
+00:00:29,821 --> 00:00:31,782
+Keep breathing. Look up at me.
+
+9
+00:00:34,451 --> 00:00:35,869
+Keep breathing. You're okay.
+
+10
+00:00:36,787 --> 00:00:38,705
+Keep breathing, Troy. There you go.
+
+11
+00:00:39,706 --> 00:00:41,416
+[normal audio] Try to breathe.
+Try to breathe.
+
+12
+00:00:41,500 --> 00:00:43,293
+- Okay. Okay.
+- [chokes]
+
+13
+00:00:43,377 --> 00:00:45,337
+Easy. Can you hear me?
+
+14
+00:00:45,838 --> 00:00:48,674
+Okay. We had to rapid-sequence you,
+I'm sorry.
+
+15
+00:00:49,341 --> 00:00:50,425
+Sir.
+
+16
+00:00:50,509 --> 00:00:52,052
+Oh, fuck. Yes.
+
+17
+00:00:52,135 --> 00:00:54,179
+Listen, your core temperature is lagging.
+
+18
+00:00:54,263 --> 00:00:56,473
+We're gonna administer
+a thermal flush, okay?
+
+19
+00:00:56,557 --> 00:00:57,558
+How...
+
+20
+00:00:59,643 --> 00:01:00,644
+How long?
+
+21
+00:01:00,727 --> 00:01:01,895
+Seven years.
+
+22
+00:01:02,604 --> 00:01:04,105
+- [panting]
+- Come on. Bite down.
+
+23
+00:01:05,691 --> 00:01:07,609
+All right, there it goes.
+
+24
+00:01:10,112 --> 00:01:13,490
+Okay. Here we go. Here it comes.
+Here it comes. Here it comes.
+
+25
+00:01:13,574 --> 00:01:16,451
+There you go. Okay. Okay.
+
+26
+00:01:17,286 --> 00:01:18,704
+- [grunting]
+- Grab his legs.
+
+27
+00:01:18,787 --> 00:01:21,331
+- Easy.
+- [groaning]
+
+28
+00:01:21,874 --> 00:01:22,875
+[Victor] Grab his legs.
+
+29
+00:02:18,472 --> 00:02:20,015
+How'd you sleep?
+
+30
+00:02:20,098 --> 00:02:22,809
+[Daniel] It's not the sleep.
+It's the waking up.
+
+31
+00:02:22,893 --> 00:02:24,520
+I know, I'm sorry. Here you go.
+
+32
+00:02:24,603 --> 00:02:26,396
+[groans]
+
+33
+00:02:26,480 --> 00:02:29,274
+- There's gotta be a better way.
+- We'll work on that.
+
+34
+00:02:32,611 --> 00:02:35,072
+- This was recorded a couple days ago.
+- [beeps]
+
+35
+00:02:35,739 --> 00:02:37,699
+[The Algorithm] <i>Why are you in the Vault?</i>
+
+36
+00:02:37,783 --> 00:02:39,910
+[Jimmy] <i>Dad sent me here. He said--</i>
+
+37
+00:02:39,993 --> 00:02:41,370
+[The Algorithm] <i>What is your name?</i>
+
+38
+00:02:42,913 --> 00:02:43,914
+[Jimmy] <i>Jimmy.</i>
+
+39
+00:02:43,997 --> 00:02:46,708
+[The Algorithm] <i>Your father
+is Russell Conroy, head of IT.</i>
+
+40
+00:02:46,792 --> 00:02:47,876
+Which silo?
+
+41
+00:02:47,960 --> 00:02:49,044
+[Jimmy] <i>Mm-hmm.</i>
+
+42
+00:02:49,878 --> 00:02:51,547
+[The Algorithm]
+<i>What did he tell you, Jimmy?</i>
+
+43
+00:02:52,589 --> 00:02:54,716
+[Jimmy] <i>Don't let anybody in
+no matter what.</i>
+
+44
+00:02:55,926 --> 00:02:57,636
+[The Algorithm]
+<i>Is there an adult with you?</i>
+
+45
+00:02:58,303 --> 00:03:02,641
+[Jimmy] <i>Solo brought me here,
+but he-he went back to fight the rebels.</i>
+
+46
+00:03:05,102 --> 00:03:06,144
+Which silo?
+
+47
+00:03:06,228 --> 00:03:07,271
+Seventeen.
+
+48
+00:03:07,855 --> 00:03:10,899
+It started with a failed cleaning,
+got worse when he went out of sight.
+
+49
+00:03:10,983 --> 00:03:13,277
+They thought it was safe to go outside.
+
+50
+00:03:13,360 --> 00:03:16,488
+Yeah. Rebellion was led by the sheriff.
+
+51
+00:03:16,989 --> 00:03:20,659
+We think the shadow blew the bridge
+to keep them out of IT,
+
+52
+00:03:20,742 --> 00:03:22,536
+but somehow the sheriff got across.
+
+53
+00:03:23,412 --> 00:03:26,582
+He took the head of IT, the kid's father,
+to the Vault
+
+54
+00:03:26,665 --> 00:03:31,211
+and threatened to blow his brains out
+if his kid didn't open the door.
+
+55
+00:03:34,923 --> 00:03:36,175
+He didn't open the door.
+
+56
+00:03:36,967 --> 00:03:38,010
+Fuck.
+
+57
+00:03:38,719 --> 00:03:40,095
+- Yeah.
+- When was that?
+
+58
+00:03:40,179 --> 00:03:41,263
+Two hours ago.
+
+59
+00:03:41,346 --> 00:03:43,473
+Any part of that triggers the Safeguard.
+
+60
+00:03:43,557 --> 00:03:46,935
+A Safeguard was attempted,
+but the compound couldn't be delivered.
+
+61
+00:03:47,019 --> 00:03:49,563
+[stammers] There's no pressure drop
+in the line.
+
+62
+00:03:49,646 --> 00:03:52,274
+We haven't determined
+whether it was a mechanical failure, or--
+
+63
+00:03:52,357 --> 00:03:54,818
+Or they found the delivery pipe
+and disabled it.
+
+64
+00:03:54,902 --> 00:03:56,528
+- Yeah.
+- That happened once before.
+
+65
+00:03:58,155 --> 00:04:00,657
+In either case,
+we need a different outcome this time.
+
+66
+00:04:00,741 --> 00:04:01,825
+That's why I'm here.
+
+67
+00:04:01,909 --> 00:04:03,202
+Exactly.
+
+68
+00:04:03,285 --> 00:04:04,411
+[sighs]
+
+69
+00:04:05,537 --> 00:04:06,997
+You okay?
+
+70
+00:04:07,080 --> 00:04:08,332
+[clears throat]
+
+71
+00:04:08,415 --> 00:04:09,625
+Yeah.
+
+72
+00:04:09,708 --> 00:04:11,043
+Do we have eyes in the sky?
+
+73
+00:04:11,126 --> 00:04:12,669
+Operations have a drone up.
+
+74
+00:04:13,545 --> 00:04:15,547
+- [people muttering]
+- [devices beeping]
+
+75
+00:04:18,716 --> 00:04:19,927
+Anything?
+
+76
+00:04:20,010 --> 00:04:21,220
+[commander] Nothing yet.
+
+77
+00:04:22,721 --> 00:04:26,183
+Troy, this is Susan,
+our senior drone commander on shift.
+
+78
+00:04:29,061 --> 00:04:30,395
+What's your payload?
+
+79
+00:04:30,479 --> 00:04:33,524
+Thirty liters of compound,
+2,000 rounds of ordnance.
+
+80
+00:04:42,991 --> 00:04:44,993
+[typing]
+
+81
+00:04:45,744 --> 00:04:48,205
+- [Charlotte speaks indistinctly]
+- [Victor] I'm not sure about that.
+
+82
+00:04:56,505 --> 00:04:58,549
+[alarm blaring]
+
+83
+00:04:59,383 --> 00:05:02,094
+[Charlotte] Sir, Silo 17 doors opening.
+
+84
+00:05:03,136 --> 00:05:05,180
+[people murmuring]
+
+85
+00:05:10,811 --> 00:05:11,895
+Oh, no, no.
+
+86
+00:05:11,979 --> 00:05:13,981
+[silo citizens cheering]
+
+87
+00:05:28,495 --> 00:05:29,663
+Awaiting your order.
+
+88
+00:05:35,752 --> 00:05:36,753
+Troy.
+
+89
+00:05:38,839 --> 00:05:42,050
+Let's not do anything. Just not yet.
+
+90
+00:05:42,134 --> 00:05:45,137
+The longer they're outside, the greater
+the risk of contact with another silo.
+
+91
+00:05:45,220 --> 00:05:47,514
+Look, let's figure out a way
+to get them back inside.
+
+92
+00:05:47,598 --> 00:05:49,641
+We'll run a line
+through the Forward Vault door.
+
+93
+00:05:49,725 --> 00:05:51,393
+We'll Safeguard them that way.
+
+94
+00:05:51,476 --> 00:05:54,104
+Their groundwater pump is out.
+It's flooded past the generator.
+
+95
+00:05:54,188 --> 00:05:55,689
+We can't use the Forward Vault doors.
+
+96
+00:05:55,772 --> 00:05:56,982
+- Susan.
+- Hmm?
+
+97
+00:05:57,065 --> 00:06:00,194
+Let's get all the techs out of these seats
+and scramble all available pilots.
+
+98
+00:06:00,277 --> 00:06:03,906
+And let's get drones in the air.
+Ten with ordnance. Twenty with compound.
+
+99
+00:06:04,823 --> 00:06:08,035
+Keep them high enough
+that the fugitives won't see or hear them.
+
+100
+00:06:08,118 --> 00:06:09,494
+Unless someone goes over the berm,
+
+101
+00:06:09,578 --> 00:06:12,206
+don't alert me
+until there are 9,500 fugitives.
+
+102
+00:06:12,289 --> 00:06:13,332
+I need to eat.
+
+103
+00:06:13,832 --> 00:06:15,751
+[cheering continues]
+
+104
+00:06:43,820 --> 00:06:45,405
+[Daniel] God, this stuff's crap.
+
+105
+00:06:46,573 --> 00:06:49,076
+I know. And such small portions.
+
+106
+00:06:51,161 --> 00:06:52,162
+Uh-huh.
+
+107
+00:06:52,871 --> 00:06:53,914
+That old joke.
+
+108
+00:07:01,880 --> 00:07:03,298
+I'm not sure about this.
+
+109
+00:07:03,382 --> 00:07:05,551
+Safeguarding them inside isn't
+an option anymore.
+
+110
+00:07:05,634 --> 00:07:08,303
+By going outside,
+they've given us a second chance.
+
+111
+00:07:08,387 --> 00:07:11,890
+Safeguards happen underground,
+inside a silo.
+
+112
+00:07:13,684 --> 00:07:14,768
+They're antiseptic.
+
+113
+00:07:15,269 --> 00:07:19,398
+If we do what you're thinking,
+this amounts to an out-of-silo Safeguard.
+
+114
+00:07:19,982 --> 00:07:22,317
+The deaths are going to be visceral.
+
+115
+00:07:22,401 --> 00:07:24,528
+- Out in the open.
+- I don't see that we have a choice.
+
+116
+00:07:24,611 --> 00:07:26,446
+We don't know how our people will react.
+
+117
+00:07:26,530 --> 00:07:30,868
+I'm concerned about the potential effects
+of trauma on morale and mission-readiness.
+
+118
+00:07:30,951 --> 00:07:35,330
+The top priority, per the Directive,
+is to prevent contamination between silos.
+
+119
+00:07:35,414 --> 00:07:36,540
+I understand that.
+
+120
+00:07:36,623 --> 00:07:38,166
+- No, what?
+- That's not what I'm saying.
+
+121
+00:07:38,250 --> 00:07:39,459
+Everything depends on that.
+
+122
+00:07:39,543 --> 00:07:41,879
+- That's not what I'm--
+- Excuse me, sir.
+
+123
+00:07:41,962 --> 00:07:43,172
+Fugitives on the berm.
+
+124
+00:07:43,255 --> 00:07:44,715
+Oh, fuck.
+
+125
+00:07:45,424 --> 00:07:47,259
+Hey, I'll look after your pilots.
+
+126
+00:07:47,342 --> 00:07:48,343
+I promise.
+
+127
+00:07:48,427 --> 00:07:49,428
+Okay.
+
+128
+00:08:17,164 --> 00:08:19,291
+[Charlotte] Jenkins, eyes on the sheriff.
+
+129
+00:08:38,977 --> 00:08:40,312
+[Daniel] How many fugitives?
+
+130
+00:08:41,395 --> 00:08:43,857
+9,832.
+
+131
+00:08:46,026 --> 00:08:47,444
+Here's the order of operations.
+
+132
+00:08:47,945 --> 00:08:50,447
+Group 1 will engage
+the sheriff and his family.
+
+133
+00:08:51,198 --> 00:08:54,743
+Group 2 will administer compound
+at the ramp to prevent reentrance.
+
+134
+00:08:55,619 --> 00:08:58,413
+3 and 4 will fly interlaced coverage
+
+135
+00:08:58,497 --> 00:09:00,874
+until the target area is saturated
+with compound.
+
+136
+00:09:01,750 --> 00:09:04,711
+Groups 5 and 6 will engage targets
+on command. Got it?
+
+137
+00:09:04,795 --> 00:09:07,047
+- [pilots] Yes, sir.
+- Good. Begin.
+
+138
+00:09:12,970 --> 00:09:14,930
+- Groups, report.
+- Group 1, ready.
+
+139
+00:09:15,013 --> 00:09:16,932
+2, ready.
+
+140
+00:09:17,015 --> 00:09:18,559
+- 3, ready.
+- 4, ready.
+
+141
+00:09:18,642 --> 00:09:19,852
+5, ready.
+
+142
+00:09:19,935 --> 00:09:20,936
+6, ready.
+
+143
+00:09:29,361 --> 00:09:30,863
+[Daniel] On your count, Susan.
+
+144
+00:09:33,740 --> 00:09:34,741
+Susan?
+
+145
+00:09:42,249 --> 00:09:43,250
+Sir.
+
+146
+00:09:48,589 --> 00:09:50,591
+When we engage the sheriff and his family,
+
+147
+00:09:50,674 --> 00:09:53,844
+the rest of the fugitives will attempt
+to reenter the silo.
+
+148
+00:09:53,927 --> 00:09:55,804
+That's why the ramp will be targeted
+with compound.
+
+149
+00:09:55,888 --> 00:09:58,140
+But if we let them go back inside,
+
+150
+00:09:59,266 --> 00:10:00,684
+they wouldn't come out again.
+
+151
+00:10:01,476 --> 00:10:03,270
+We'd end the rebellion,
+
+152
+00:10:03,353 --> 00:10:06,106
+eliminate any possibility
+of silo-to-silo contact,
+
+153
+00:10:06,190 --> 00:10:08,901
+and reinforce the Pact's infallibility.
+
+154
+00:10:18,035 --> 00:10:20,078
+Maintain targets and prepare to engage.
+
+155
+00:10:28,253 --> 00:10:30,881
+[Charlotte] There are women and children
+out there, sir.
+
+156
+00:10:32,466 --> 00:10:33,717
+I won't do it.
+
+157
+00:10:48,899 --> 00:10:49,900
+You're dismissed.
+
+158
+00:11:04,248 --> 00:11:05,541
+[Victor sighs]
+
+159
+00:11:05,624 --> 00:11:06,625
+[sighs]
+
+160
+00:11:06,708 --> 00:11:09,211
+Let the record reflect the change
+in operational command.
+
+161
+00:11:16,301 --> 00:11:19,513
+The citizens of Silo 17 have chosen
+to go outside.
+
+162
+00:11:19,596 --> 00:11:21,348
+They are beyond the Pact
+
+163
+00:11:22,558 --> 00:11:24,893
+but they're not outside the Directive.
+
+164
+00:11:25,853 --> 00:11:26,854
+[pilots] Yes, sir.
+
+165
+00:11:29,690 --> 00:11:33,610
+Groups 1 and 2,
+commence operations on my command.
+
+166
+00:11:33,694 --> 00:11:35,529
+Group 2, release compound.
+
+167
+00:11:35,612 --> 00:11:37,114
+[typing]
+
+168
+00:11:37,197 --> 00:11:38,407
+[gas hissing]
+
+169
+00:11:43,829 --> 00:11:45,706
+[shouting]
+
+170
+00:11:53,130 --> 00:11:55,299
+- [Daniel] Show me the air lock.
+- [screaming]
+
+171
+00:11:58,260 --> 00:12:00,637
+Group 1, engage targets.
+
+172
+00:12:09,813 --> 00:12:10,814
+Make sure.
+
+173
+00:12:19,615 --> 00:12:20,616
+[sheriff grunting]
+
+174
+00:12:26,205 --> 00:12:27,706
+Groups 3 and 4, begin.
+
+175
+00:12:39,593 --> 00:12:43,055
+Groups 5 and 6,
+descend through 500 feet. Fire at will.
+
+176
+00:12:48,977 --> 00:12:50,729
+[screaming continues]
+
+177
+00:12:57,528 --> 00:12:58,529
+Switch to thermal.
+
+178
+00:13:12,167 --> 00:13:14,169
+[screaming continues]
+
+179
+00:13:17,089 --> 00:13:18,298
+Let's cut the audio.
+
+180
+00:13:18,799 --> 00:13:20,008
+- [beep]
+- [audio ends]
+
+181
+00:13:39,111 --> 00:13:41,154
+All right, which way is that wind going?
+
+182
+00:13:41,238 --> 00:13:44,575
+Group 3, secondary sweep,
+southeast quadrant.
+
+183
+00:13:44,658 --> 00:13:46,869
+Group 5, seeing that? Runners at 2:00.
+
+184
+00:13:47,452 --> 00:13:48,620
+Can we punch in on that?
+
+185
+00:13:50,414 --> 00:13:51,582
+All right, live target update?
+
+186
+00:13:52,207 --> 00:13:54,668
+[pilot] 2,453, sir.
+
+187
+00:13:54,751 --> 00:13:56,128
+Let's get that number down.
+
+188
+00:15:21,129 --> 00:15:24,591
+The pilots I've debriefed so far
+seem almost exhilarated.
+
+189
+00:15:25,259 --> 00:15:26,885
+I may have underestimated their...
+
+190
+00:15:27,970 --> 00:15:28,971
+What?
+
+191
+00:15:29,972 --> 00:15:31,348
+I don't know, their...
+
+192
+00:15:32,182 --> 00:15:33,600
+We're professionals, Victor.
+
+193
+00:15:34,393 --> 00:15:35,811
+This is what we trained for.
+
+194
+00:15:35,894 --> 00:15:39,273
+Yeah. You... You're something more, Troy.
+
+195
+00:15:40,357 --> 00:15:41,775
+I serve at the director's pleasure.
+
+196
+00:15:41,859 --> 00:15:42,985
+We all do.
+
+197
+00:15:43,735 --> 00:15:45,779
+- Doug. Randy.
+- [knocks on door]
+
+198
+00:15:47,447 --> 00:15:49,032
+Madam Director.
+
+199
+00:15:49,116 --> 00:15:52,119
+Welcome, old friend.
+It's been several shifts.
+
+200
+00:15:52,202 --> 00:15:53,245
+You look wonderful.
+
+201
+00:15:53,328 --> 00:15:56,874
+Yeah? I feel like hell. I'll never get
+used to being rapid-sequenced.
+
+202
+00:15:56,957 --> 00:15:59,084
+[kisses] I apologize.
+
+203
+00:15:59,168 --> 00:16:01,003
+- Well, it couldn't be helped.
+- Hmm.
+
+204
+00:16:01,086 --> 00:16:03,922
+Sit, please. I've already had my grits,
+I'm afraid.
+
+205
+00:16:04,006 --> 00:16:05,591
+But can I offer you tea?
+
+206
+00:16:05,674 --> 00:16:08,510
+Tea. Ah, that would be wonderful.
+You're very kind.
+
+207
+00:16:08,594 --> 00:16:12,639
+Well, I felt the man of the hour
+deserved special recognition.
+
+208
+00:16:12,723 --> 00:16:15,100
+Now, I'll be mother.
+
+209
+00:16:15,184 --> 00:16:16,185
+[Victor] Mm-hmm.
+
+210
+00:16:16,268 --> 00:16:19,813
+I knew when we started this long,
+difficult adventure
+
+211
+00:16:19,897 --> 00:16:23,567
+that I would never make it
+without my afternoon tea.
+
+212
+00:16:24,401 --> 00:16:26,612
+Though supplies are running low.
+
+213
+00:16:29,448 --> 00:16:30,449
+Troy.
+
+214
+00:16:31,491 --> 00:16:34,036
+I'm awarding you a certificate of merit
+
+215
+00:16:34,661 --> 00:16:38,165
+for your coolheadedness
+and your innovative leadership.
+
+216
+00:16:38,248 --> 00:16:41,293
+Thank you, ma'am, but I just did my job.
+
+217
+00:16:41,376 --> 00:16:43,545
+[chuckles] He's so modest.
+
+218
+00:16:43,629 --> 00:16:45,005
+We've had rebellions before,
+
+219
+00:16:45,088 --> 00:16:48,467
+but a mass exodus of this scale
+is unprecedented.
+
+220
+00:16:48,550 --> 00:16:52,888
+Your swift, decisive action
+prevented a catastrophe.
+
+221
+00:16:54,515 --> 00:16:56,892
+And you're sure that
+there was no contamination?
+
+222
+00:16:56,975 --> 00:17:00,896
+None. 9,835 fugitives, all accounted for.
+
+223
+00:17:00,979 --> 00:17:02,689
+How many left alive inside?
+
+224
+00:17:02,773 --> 00:17:03,899
+No more than a hundred.
+
+225
+00:17:04,900 --> 00:17:05,901
+Are they a threat?
+
+226
+00:17:05,983 --> 00:17:07,236
+They lost their generator,
+
+227
+00:17:07,319 --> 00:17:10,405
+so they have no internal power,
+no heating, no cooling--
+
+228
+00:17:10,489 --> 00:17:12,574
+They're still getting
+external power in IT.
+
+229
+00:17:12,657 --> 00:17:16,203
+But to cut that,
+we'd have to shut down the sector.
+
+230
+00:17:17,329 --> 00:17:20,123
+No, without a generator,
+their plants and farm stock will die,
+
+231
+00:17:20,207 --> 00:17:22,000
+and the groundwater will continue to rise.
+
+232
+00:17:22,084 --> 00:17:24,211
+If they don't starve to death,
+they'll drown.
+
+233
+00:17:24,294 --> 00:17:27,089
+And that boy barricaded in IT,
+
+234
+00:17:27,172 --> 00:17:29,258
+- is he still alive?
+- [Victor] We're not sure.
+
+235
+00:17:29,341 --> 00:17:31,468
+He had no further
+valuable information to give,
+
+236
+00:17:31,552 --> 00:17:32,886
+so we cut off comms.
+
+237
+00:17:32,970 --> 00:17:37,057
+Good. Let's keep armed drone surveillance
+going for three years
+
+238
+00:17:37,140 --> 00:17:39,309
+just in case any more try to escape.
+
+239
+00:17:39,393 --> 00:17:41,103
+Five years would be safer.
+
+240
+00:17:41,687 --> 00:17:42,855
+Five it is.
+
+241
+00:17:43,897 --> 00:17:45,899
+Now, let's talk about Susan.
+
+242
+00:17:45,983 --> 00:17:50,988
+You placed her under arrest, Troy,
+and I've released her pending an inquiry.
+
+243
+00:17:52,573 --> 00:17:55,325
+- That's your prerogative, of course.
+- Well, that's not good enough.
+
+244
+00:17:55,409 --> 00:17:57,703
+I asked you here
+so you could make your case.
+
+245
+00:18:00,539 --> 00:18:03,667
+At the time of the incident,
+she was operating under my authority,
+
+246
+00:18:03,750 --> 00:18:05,335
+which flows from the Directive.
+
+247
+00:18:05,419 --> 00:18:07,546
+But what exactly did she do?
+
+248
+00:18:07,629 --> 00:18:08,797
+[Daniel] She refused an order,
+
+249
+00:18:09,798 --> 00:18:13,385
+and then questioned my tactics in front
+of pilots under her command.
+
+250
+00:18:13,969 --> 00:18:17,097
+Her insubordination cost us time,
+and could've triggered resistance
+
+251
+00:18:17,181 --> 00:18:18,640
+from the others, possibly even a revolt.
+
+252
+00:18:18,724 --> 00:18:20,559
+- But they all did their jobs.
+- [Thurman] Good.
+
+253
+00:18:20,642 --> 00:18:21,643
+No one hesitated.
+
+254
+00:18:21,727 --> 00:18:23,854
+But the fugitives were about
+to breach the berm.
+
+255
+00:18:23,937 --> 00:18:25,230
+They could've been visible
+
+256
+00:18:25,314 --> 00:18:27,524
+to the six other silos in their group
+within minutes.
+
+257
+00:18:27,608 --> 00:18:29,067
+Every second counted.
+
+258
+00:18:29,151 --> 00:18:31,862
+And what do you consider
+an appropriate consequence?
+
+259
+00:18:39,661 --> 00:18:42,289
+May I ask what's laid out
+in the Directive?
+
+260
+00:18:42,372 --> 00:18:43,707
+Neutralization.
+
+261
+00:18:44,875 --> 00:18:47,503
+But I'm afraid that's not an option.
+
+262
+00:18:47,586 --> 00:18:51,798
+Look, her conduct was unacceptable,
+I agree.
+
+263
+00:18:52,299 --> 00:18:54,885
+But Susan's skills
+will play a critical role
+
+264
+00:18:54,968 --> 00:18:57,054
+at the end of The Project.
+
+265
+00:18:58,222 --> 00:19:00,432
+Besides, she's important to my daughter.
+
+266
+00:19:00,516 --> 00:19:03,977
+Now, I think, perhaps it's best
+to just demote her
+
+267
+00:19:04,061 --> 00:19:05,562
+and put her back to sleep.
+
+268
+00:19:06,313 --> 00:19:10,734
+Troy, we made you a specialist
+for just this kind of emergency.
+
+269
+00:19:10,817 --> 00:19:16,490
+On behalf of The Project,
+I thank you for your exceptional service.
+
+270
+00:19:18,992 --> 00:19:20,202
+[utensil clinks]
+
+271
+00:19:24,665 --> 00:19:25,666
+You okay?
+
+272
+00:19:27,501 --> 00:19:28,669
+She's the director.
+
+273
+00:19:30,337 --> 00:19:32,464
+And it's a heavy burden.
+We need to get you to cryo.
+
+274
+00:19:32,548 --> 00:19:34,466
+Yeah, listen.
+
+275
+00:19:38,595 --> 00:19:40,514
+- Can we talk in your office?
+- Mm-hmm.
+
+276
+00:19:44,309 --> 00:19:46,645
+There's a woman.
+
+277
+00:19:46,728 --> 00:19:49,189
+Hmm. What department does she work in?
+
+278
+00:19:49,273 --> 00:19:50,566
+She doesn't.
+
+279
+00:19:50,649 --> 00:19:52,192
+I don't... I don't... [stammers]
+
+280
+00:19:52,985 --> 00:19:54,736
+I think she might be a memory.
+
+281
+00:19:57,114 --> 00:20:00,284
+Caught glimpses of her, just flashes,
+as I woke up.
+
+282
+00:20:00,367 --> 00:20:03,579
+When I tried to hang onto them,
+they were gone.
+
+283
+00:20:09,293 --> 00:20:11,336
+I feel like I've raised this
+with you before,
+
+284
+00:20:12,462 --> 00:20:14,673
+seeing this woman when I'm sequenced.
+
+285
+00:20:14,756 --> 00:20:16,258
+Well, I'd tell you if you had.
+
+286
+00:20:21,513 --> 00:20:24,433
+She's connected to this somehow.
+
+287
+00:20:26,518 --> 00:20:27,519
+Oh.
+
+288
+00:20:28,729 --> 00:20:30,105
+When did that happen?
+
+289
+00:20:32,107 --> 00:20:34,401
+- No idea.
+- And no idea who she is?
+
+290
+00:20:34,484 --> 00:20:36,737
+No. I hoped you might.
+
+291
+00:20:38,363 --> 00:20:39,865
+No, I'm sorry.
+
+292
+00:20:48,207 --> 00:20:50,501
+Look, you have access
+to certain records from--
+
+293
+00:20:50,584 --> 00:20:52,669
+- Troy. Troy.
+- Yeah?
+
+294
+00:20:52,753 --> 00:20:55,589
+The whole purpose and design
+of The Project
+
+295
+00:20:55,672 --> 00:20:57,257
+is to free us from the past.
+
+296
+00:20:57,341 --> 00:20:59,510
+[stammers] It's best you let this go.
+
+297
+00:20:59,593 --> 00:21:01,553
+Yeah, whatever you say, Victor.
+
+298
+00:21:03,138 --> 00:21:05,766
+Even if there was a record,
+and even if it survived,
+
+299
+00:21:05,849 --> 00:21:07,893
+the senator has said this kind of inquiry
+
+300
+00:21:07,976 --> 00:21:10,270
+- is forbidden by the Directive.
+- That's why I'm counting on...
+
+301
+00:21:10,354 --> 00:21:12,356
+- You can't just--
+- ...your discretion, Doctor.
+
+302
+00:21:14,525 --> 00:21:17,569
+I've proven my value to The Project,
+haven't I?
+
+303
+00:21:17,653 --> 00:21:19,238
+Yes, you have. Beyond any doubt.
+
+304
+00:21:19,321 --> 00:21:21,990
+Okay, so all I'm asking for is the answer
+to one little question.
+
+305
+00:21:30,832 --> 00:21:32,376
+[scoffs] Please.
+
+306
+00:21:38,382 --> 00:21:39,550
+[sighs]
+
+307
+00:21:46,348 --> 00:21:48,392
+I'll have to try and find a pretext
+
+308
+00:21:50,269 --> 00:21:51,603
+to look into this.
+
+309
+00:21:57,192 --> 00:21:58,277
+If I do...
+
+310
+00:22:00,737 --> 00:22:02,948
+I will have it for you next time
+you wake up.
+
+311
+00:22:04,825 --> 00:22:06,118
+I promise.
+
+312
+00:22:36,356 --> 00:22:37,357
+Be seeing you.
+
+313
+00:22:51,997 --> 00:22:53,749
+Not if I see you first.
+
+314
+00:23:04,134 --> 00:23:05,135
+[sighs]
+
+315
+00:25:41,375 --> 00:25:43,710
+- [explosion]
+- [Knox] Come on! Let's go!
+
+316
+00:25:46,338 --> 00:25:48,382
+[miners grunting]
+
+317
+00:25:55,264 --> 00:25:56,890
+[grunting continues]
+
+318
+00:25:56,974 --> 00:25:59,434
+- [Camille] Are the cylinders prepped?
+- Prepped and loaded.
+
+319
+00:25:59,518 --> 00:26:02,604
+Get every raider you can find
+and deliver them to the mines now.
+
+320
+00:26:02,688 --> 00:26:03,689
+Yes, ma'am.
+
+321
+00:26:03,772 --> 00:26:05,190
+- Emerson.
+- Ma'am?
+
+322
+00:26:05,274 --> 00:26:07,359
+Make sure people see them doing it.
+
+323
+00:26:15,534 --> 00:26:16,785
+Fuck.
+
+324
+00:26:24,960 --> 00:26:26,253
+Sit down.
+
+325
+00:26:26,336 --> 00:26:28,714
+Jo, you know me. I'm not a threat.
+
+326
+00:26:28,797 --> 00:26:30,591
+I just wanna see my boy.
+
+327
+00:26:31,091 --> 00:26:33,177
+- That's it.
+- [Chad] Submit a request.
+
+328
+00:26:33,969 --> 00:26:37,973
+I need to say goodbye to my son.
+
+329
+00:26:39,600 --> 00:26:41,351
+Chad, you have kids.
+
+330
+00:26:43,562 --> 00:26:44,605
+Please.
+
+331
+00:26:47,065 --> 00:26:48,066
+I'll ask.
+
+332
+00:27:02,956 --> 00:27:05,501
+You know, I tried...
+I tried to make Camille see, but--
+
+333
+00:27:05,584 --> 00:27:07,461
+Yeah, yeah, she's hardheaded.
+
+334
+00:27:08,212 --> 00:27:10,506
+Yeah. You can say that again.
+
+335
+00:27:12,758 --> 00:27:14,885
+[sighs]
+
+336
+00:27:19,056 --> 00:27:20,974
+We've done everything we can do, Sims.
+
+337
+00:27:21,808 --> 00:27:24,770
+We have to trust
+that they can get it done.
+
+338
+00:27:25,771 --> 00:27:27,022
+And if they fail?
+
+339
+00:27:30,275 --> 00:27:31,693
+[door beeps, opens]
+
+340
+00:27:33,111 --> 00:27:34,196
+[Camille] Wait.
+
+341
+00:27:34,279 --> 00:27:37,908
+Wait, you can... you can stop, I'm here.
+You can stop the countdown.
+
+342
+00:27:37,991 --> 00:27:41,745
+My raiders are about to launch
+a counteroffensive. Okay? [sniffles]
+
+343
+00:27:43,622 --> 00:27:44,831
+I'm handling it!
+
+344
+00:27:44,915 --> 00:27:47,209
+[The Algorithm] <i>You've been given
+extraordinary latitude,</i>
+
+345
+00:27:47,292 --> 00:27:49,586
+<i>but the window of opportunity is closed.</i>
+
+346
+00:27:49,670 --> 00:27:51,213
+No, no, we're-we're...
+
+347
+00:27:51,296 --> 00:27:53,757
+We're gassing the mines, okay?
+
+348
+00:27:53,841 --> 00:27:56,426
+The rebels will be dead in-in minutes.
+You can watch.
+
+349
+00:27:56,510 --> 00:27:58,303
+You can watch on your screens.
+
+350
+00:28:00,389 --> 00:28:01,557
+Just...
+
+351
+00:28:01,640 --> 00:28:04,434
+At least let us try! Okay?
+
+352
+00:28:04,518 --> 00:28:06,061
+<i>Just let us try!</i>
+
+353
+00:28:22,369 --> 00:28:23,662
+You have five minutes.
+
+354
+00:28:27,249 --> 00:28:28,542
+That's not enough time.
+
+355
+00:28:30,794 --> 00:28:32,880
+[groans] That's not enough time.
+
+356
+00:28:34,006 --> 00:28:36,216
+- That's not enough--
+- [The Algorithm] <i>You have five minutes.</i>
+
+357
+00:28:51,356 --> 00:28:54,026
+Primary and secondary pumps,
+armed and locked.
+
+358
+00:28:54,109 --> 00:28:56,528
+- Valves?
+- Primary valve and group valve are open.
+
+359
+00:28:56,612 --> 00:28:57,738
+Silo valve ready.
+
+360
+00:28:57,821 --> 00:29:00,073
+Start pressurization sequence.
+
+361
+00:29:02,034 --> 00:29:03,619
+<i>That's not enough time.</i> [breathes shakily]
+
+362
+00:29:05,245 --> 00:29:07,080
+[miners] <i>Let's go! Move, move!</i>
+
+363
+00:29:07,164 --> 00:29:08,707
+Give me that! Give me that!
+
+364
+00:29:09,541 --> 00:29:11,210
+[grunting]
+
+365
+00:29:14,463 --> 00:29:15,631
+[miner] Look out!
+
+366
+00:29:20,761 --> 00:29:22,221
+- Shirl, you good?
+- Yeah!
+
+367
+00:29:22,304 --> 00:29:24,723
+[miner 2] I see the concrete floor!
+I need a rebar.
+
+368
+00:29:31,188 --> 00:29:33,232
+- [grunting]
+- [raider] Move, move, move!
+
+369
+00:29:33,315 --> 00:29:35,275
+- [shouting indistinctly]
+- [Shirley] Raiders!
+
+370
+00:29:35,359 --> 00:29:37,236
+- Fuck! Teddy!
+- Huh?
+
+371
+00:29:37,319 --> 00:29:38,570
+Slow those raiders down.
+
+372
+00:29:38,654 --> 00:29:40,531
+Nash, Hoover, you're with me.
+
+373
+00:29:43,617 --> 00:29:44,993
+[panting]
+
+374
+00:29:49,581 --> 00:29:52,042
+Oh, God. Come on. [sniffles]
+
+375
+00:29:53,877 --> 00:29:54,878
+Oh, fuck.
+
+376
+00:29:55,754 --> 00:29:56,755
+[grunts]
+
+377
+00:30:00,300 --> 00:30:02,219
+[raider speaking indistinctly]
+
+378
+00:30:06,223 --> 00:30:08,433
+- Drop the tanks! Drop the tanks!
+- [shouts]
+
+379
+00:30:08,517 --> 00:30:10,018
+[grunting]
+
+380
+00:30:18,318 --> 00:30:20,070
+[grunting, exclaiming]
+
+381
+00:30:20,153 --> 00:30:21,238
+[Hoover] Get off me!
+
+382
+00:30:22,865 --> 00:30:23,907
+Get off me!
+
+383
+00:30:25,117 --> 00:30:26,159
+[raider 2] Don't fucking move!
+
+384
+00:30:26,243 --> 00:30:28,996
+[raider 1] You got this.
+Keep the line moving!
+
+385
+00:30:37,462 --> 00:30:38,714
+[Knox] Shirl, torch.
+
+386
+00:30:41,967 --> 00:30:43,093
+I see it.
+
+387
+00:30:43,635 --> 00:30:45,220
+[grunts] Here.
+
+388
+00:30:46,597 --> 00:30:48,640
+<i>The raiders are almost in position.</i>
+
+389
+00:30:48,724 --> 00:30:50,142
+<i>Okay, they're alm...</i>
+
+390
+00:30:50,225 --> 00:30:55,022
+<i>Just don't... Don't do it, okay?
+Don't do it. Please, don't!</i>
+
+391
+00:30:57,566 --> 00:30:58,942
+<i>Fucking say something!</i>
+
+392
+00:30:59,943 --> 00:31:01,153
+Say something!
+
+393
+00:31:06,033 --> 00:31:07,492
+[The Algorithm] <i>Two minutes 15.</i>
+
+394
+00:31:15,459 --> 00:31:16,752
+[Anthony] Daddy!
+
+395
+00:31:17,920 --> 00:31:19,421
+Anthony!
+
+396
+00:31:35,020 --> 00:31:37,064
+- [grunting]
+- [Shirley] Come on, come on!
+
+397
+00:31:38,023 --> 00:31:39,024
+[Knox grunts]
+
+398
+00:31:42,569 --> 00:31:44,696
+- Come on. Come on!
+- [Shirley] Knox?
+
+399
+00:31:44,780 --> 00:31:45,781
+[grunting]
+
+400
+00:31:47,115 --> 00:31:49,493
+Shirl, get up here. I need you.
+
+401
+00:31:49,576 --> 00:31:51,787
+<i>Okay, they-they alm...
+They almost have the gas in place.</i>
+
+402
+00:31:51,870 --> 00:31:54,831
+<i>Okay? The rebels will be dead. Instantly.</i>
+
+403
+00:31:54,915 --> 00:31:56,583
+<i>We just... We need two minutes.</i>
+
+404
+00:31:56,667 --> 00:31:58,335
+<i>We need two minutes.</i>
+
+405
+00:31:58,418 --> 00:32:00,045
+Two minutes, please!
+
+406
+00:32:02,756 --> 00:32:03,966
+[The Algorithm] <i>Camille,</i>
+
+407
+00:32:05,217 --> 00:32:08,929
+<i>your failure made a Safeguard necessary.</i>
+
+408
+00:32:12,724 --> 00:32:13,767
+Fuck!
+
+409
+00:32:22,150 --> 00:32:23,151
+[Sims chuckles]
+
+410
+00:32:30,033 --> 00:32:31,034
+Hey, Anthony.
+
+411
+00:32:31,660 --> 00:32:33,328
+She doesn't wanna hurt you.
+
+412
+00:32:34,371 --> 00:32:35,455
+Okay?
+
+413
+00:32:42,421 --> 00:32:43,922
+Where's Mommy?
+
+414
+00:32:46,133 --> 00:32:47,885
+Mommy's at work.
+
+415
+00:32:55,017 --> 00:32:56,602
+[Knox grunting]
+
+416
+00:33:27,925 --> 00:33:30,093
+Sir, did you see that?
+
+417
+00:33:30,177 --> 00:33:32,429
+- She slipped.
+- No, look.
+
+418
+00:33:43,899 --> 00:33:44,900
+Oxygen.
+
+419
+00:33:46,735 --> 00:33:48,695
+It's just oxygen. Full pressure!
+
+420
+00:33:51,615 --> 00:33:52,741
+[Knox grunts]
+
+421
+00:33:52,824 --> 00:33:54,368
+[grunts] Come on.
+
+422
+00:34:02,251 --> 00:34:03,669
+Emerson, is it safe?
+
+423
+00:34:03,752 --> 00:34:05,420
+- [static]
+- [Emerson speaking indistinctly]
+
+424
+00:34:06,421 --> 00:34:09,507
+Say again. Say again. Emerson, is it safe?
+
+425
+00:34:10,842 --> 00:34:12,553
+Come on. Come on.
+
+426
+00:34:20,893 --> 00:34:21,895
+[grunting]
+
+427
+00:34:22,728 --> 00:34:24,022
+Full pressure at silo valve.
+
+428
+00:34:25,315 --> 00:34:26,859
+Initiate Safeguard.
+
+429
+00:34:28,025 --> 00:34:29,194
+[tech] On my count.
+
+430
+00:34:29,277 --> 00:34:32,906
+- In three, two, one.
+- Please, just wait. Just wait. Wait.
+
+431
+00:34:33,866 --> 00:34:35,242
+Please don't.
+
+432
+00:34:49,797 --> 00:34:52,384
+[alarm blaring]
+
+433
+00:34:55,137 --> 00:34:56,179
+What's happened?
+
+434
+00:34:56,263 --> 00:34:58,390
+Sir, the pressure isn't dropping.
+
+435
+00:34:59,266 --> 00:35:01,810
+- Check again.
+- Pressure dipped for one second,
+
+436
+00:35:01,894 --> 00:35:03,687
+and then immediately returned
+to full pressure.
+
+437
+00:35:04,855 --> 00:35:06,315
+The Safeguard's failed, sir.
+
+438
+00:35:18,327 --> 00:35:19,411
+[Emerson] <i>It's safe.</i>
+
+439
+00:35:23,832 --> 00:35:25,042
+[chuckles]
+
+440
+00:35:27,211 --> 00:35:29,129
+[chuckles] C-Copy. [sniffles]
+
+441
+00:35:34,092 --> 00:35:35,552
+[sobs]
+
+442
+00:35:36,428 --> 00:35:37,679
+Oh, fuck.
+
+443
+00:35:51,109 --> 00:35:53,445
+[both chuckle]
+
+444
+00:35:55,489 --> 00:35:56,823
+Fuck.
+
+445
+00:35:58,450 --> 00:36:00,994
+[tech] Sir, we need to depressurize.
+
+446
+00:36:01,578 --> 00:36:02,955
+[blaring continues]
+
+447
+00:36:03,038 --> 00:36:04,039
+Sir!
+
+448
+00:36:09,837 --> 00:36:11,046
+Depressurize.
+
+449
+00:36:12,464 --> 00:36:13,757
+[beeping]
+
+450
+00:36:18,762 --> 00:36:20,472
+Where did the Safeguard fail?
+
+451
+00:36:21,306 --> 00:36:23,141
+[tech] The silo valve was operational.
+
+452
+00:36:24,142 --> 00:36:25,227
+Somewhere after that.
+
+453
+00:36:31,692 --> 00:36:32,901
+They capped the pipe.
+
+454
+00:36:36,989 --> 00:36:38,156
+They capped the pipe.
+
+455
+00:36:51,336 --> 00:36:57,759
+I want an armed drone in the air
+over Silo 18.
+
+456
+00:36:59,553 --> 00:37:01,180
+Anyone attempts to leave,
+
+457
+00:37:02,931 --> 00:37:04,016
+kill them.
+
+458
+00:37:12,357 --> 00:37:13,525
+I need the room.
+
+459
+00:37:16,528 --> 00:37:17,613
+Clear the room.
+
+460
+00:37:19,198 --> 00:37:20,199
+Now!
+
+461
+00:37:34,838 --> 00:37:36,840
+[The Algorithm] <i>That was
+a skillful deception.</i>
+
+462
+00:37:40,969 --> 00:37:42,804
+Wasn't sure you could be deceived.
+
+463
+00:37:46,600 --> 00:37:48,519
+[The Algorithm]
+<i>Your biometrics were stable.</i>
+
+464
+00:37:48,602 --> 00:37:49,686
+[Camille chuckles]
+
+465
+00:37:49,770 --> 00:37:52,147
+<i>There was no indication of your betrayal.</i>
+
+466
+00:37:52,940 --> 00:37:55,275
+Well, you picked me
+because I could lie, right?
+
+467
+00:37:58,737 --> 00:38:00,364
+Why would you lie to me?
+
+468
+00:38:08,163 --> 00:38:10,123
+I couldn't answer a question.
+
+469
+00:38:10,207 --> 00:38:11,750
+What question?
+
+470
+00:38:12,459 --> 00:38:13,794
+<i>Why?</i>
+
+471
+00:38:14,795 --> 00:38:16,964
+Why do you have the power to kill us?
+
+472
+00:38:20,092 --> 00:38:21,343
+Asked by whom?
+
+473
+00:38:29,226 --> 00:38:30,435
+Juliette Nichols.
+
+474
+00:38:39,069 --> 00:38:42,906
+The human species was
+in a terminal cycle of self-annihilation.
+
+475
+00:38:47,911 --> 00:38:52,457
+The silo was the last best hope
+to ensure the survival of the species.
+
+476
+00:38:52,541 --> 00:38:58,130
+How... How do you ensure survival by
+murdering thousands of people at a time?
+
+477
+00:39:00,174 --> 00:39:04,595
+Questioning the Founders' prerogatives...
+
+478
+00:39:07,389 --> 00:39:09,474
+- is a violation--
+- <i>A violation?</i>
+
+479
+00:39:10,684 --> 00:39:13,687
+People wanna be free,
+so you slaughter them. A violation?
+
+480
+00:40:09,368 --> 00:40:10,369
+[sighs]
+
+481
+00:40:19,378 --> 00:40:21,213
+No one goes in, no one goes out. Clear?
+
+482
+00:40:21,296 --> 00:40:22,840
+- Yes, ma'am.
+- [raider] Move. Hey, move, move.
+
+483
+00:40:22,923 --> 00:40:24,591
+- Hey, hey, hey.
+- Hey, man. Hey, get back.
+
+484
+00:40:24,675 --> 00:40:26,134
+- Whoa.
+- You can't approach the prisoners.
+
+485
+00:40:26,218 --> 00:40:27,386
+They're not prisoners anymore.
+
+486
+00:40:27,469 --> 00:40:29,680
+- What happened?
+- We found the pipe and shut it down.
+
+487
+00:40:29,763 --> 00:40:31,557
+- Hey, come on.
+- Raiders were sent to stop you.
+
+488
+00:40:31,640 --> 00:40:33,475
+They got an order to switch sides.
+
+489
+00:40:33,559 --> 00:40:35,769
+Whose order? Nobody has that authority.
+
+490
+00:40:35,853 --> 00:40:37,271
+[Camille] It was my order.
+
+491
+00:40:50,075 --> 00:40:52,244
+Okay. No one's going out to clean.
+You're all dismissed.
+
+492
+00:40:55,622 --> 00:40:56,790
+[Anthony] Mommy.
+
+493
+00:40:56,874 --> 00:40:57,875
+Anthony.
+
+494
+00:40:58,709 --> 00:40:59,710
+Hey.
+
+495
+00:41:00,210 --> 00:41:01,378
+Hey. You okay?
+
+496
+00:41:02,963 --> 00:41:03,964
+Yeah?
+
+497
+00:41:04,673 --> 00:41:05,924
+[kisses]
+
+498
+00:41:06,800 --> 00:41:07,801
+You're okay.
+
+499
+00:41:08,719 --> 00:41:09,720
+You're good?
+
+500
+00:41:11,388 --> 00:41:13,223
+The water supply is safe.
+
+501
+00:41:14,516 --> 00:41:15,559
+We did it.
+
+502
+00:41:17,436 --> 00:41:18,729
+[Knox] You know what this day is?
+
+503
+00:41:20,439 --> 00:41:21,648
+Freedom Day.
+
+504
+00:41:22,149 --> 00:41:23,525
+[chuckles]
+
+505
+00:41:23,609 --> 00:41:25,611
+[chuckles]
+
+506
+00:41:26,153 --> 00:41:28,530
+The first real Freedom Day we've ever had.
+
+507
+00:41:29,031 --> 00:41:31,742
+And I can't help thinking
+we'd all be dead now
+
+508
+00:41:32,701 --> 00:41:34,077
+if it wasn't for that...
+
+509
+00:41:35,621 --> 00:41:37,039
+that son of a bitch.
+
+510
+00:41:55,974 --> 00:41:57,100
+[knocks on door]
+
+511
+00:41:57,184 --> 00:41:58,310
+[Victor] Yes?
+
+512
+00:42:00,187 --> 00:42:01,355
+What did you need, sir?
+
+513
+00:42:01,438 --> 00:42:04,149
+Have them wake Troy for me, please.
+
+514
+00:42:04,233 --> 00:42:05,317
+Yes, sir.
+
+515
+00:42:06,235 --> 00:42:07,319
+Thanks, Chloe.
+
+516
+00:42:08,320 --> 00:42:09,321
+[door closes]
+
+517
+00:42:18,080 --> 00:42:21,041
+[calm music playing]
+
+518
+00:42:28,799 --> 00:42:30,050
+[sighs]
+
+519
+00:42:37,683 --> 00:42:38,684
+[chuckles]
+
+520
+00:42:41,937 --> 00:42:42,938
+[chuckles]
+
+521
+00:42:48,944 --> 00:42:50,445
+[sighs]
+
+522
+00:43:20,517 --> 00:43:21,518
+[chuckles]
+
+523
+00:43:40,954 --> 00:43:42,289
+[sniffles, sighs]
+
+524
+00:43:49,963 --> 00:43:53,509
+[sniffling]
+
+525
+00:44:17,282 --> 00:44:18,408
+[lock clicks]
+
+526
+00:44:39,513 --> 00:44:40,722
+[sighs]
+
+527
+00:44:45,978 --> 00:44:48,605
+Hey, it's Jules. Um...
+
+528
+00:44:48,689 --> 00:44:49,773
+Anyone there?
+
+529
+00:44:53,235 --> 00:44:54,528
+[Lukas] <i>Jules?</i>
+
+530
+00:44:54,611 --> 00:44:57,781
+[sighs] Oh, it's good to hear your voice.
+
+531
+00:44:58,407 --> 00:44:59,575
+<i>Hey, Lukas.</i>
+
+532
+00:45:00,409 --> 00:45:02,327
+It's so good to hear yours too.
+
+533
+00:45:02,911 --> 00:45:04,830
+<i>How are you guys doing? Are you okay?</i>
+
+534
+00:45:04,913 --> 00:45:07,249
+[chuckles] Uh...
+
+535
+00:45:07,332 --> 00:45:08,959
+I'm mending. What...
+
+536
+00:45:09,543 --> 00:45:12,379
+Look, the important thing is
+that you disabled the Safeguard.
+
+537
+00:45:12,963 --> 00:45:16,633
+Well, I didn't. It was Knox and Shirley
+and Walker and...
+
+538
+00:45:16,717 --> 00:45:20,429
+Yeah, everyone helped.
+Even Camille. So, yeah, we're good.
+
+539
+00:45:20,512 --> 00:45:21,513
+<i>I think.</i>
+
+540
+00:45:21,597 --> 00:45:23,098
+<i>For now, at least.</i>
+
+541
+00:45:24,016 --> 00:45:25,934
+Yeah, and as long as you don't go outside.
+
+542
+00:45:26,018 --> 00:45:29,438
+And that thing which shot me
+doesn't come back. So...
+
+543
+00:45:30,480 --> 00:45:33,442
+I'm gonna bring all of you back here,
+I promise you that.
+
+544
+00:45:35,485 --> 00:45:36,820
+<i>I know.</i>
+
+545
+00:45:36,904 --> 00:45:38,488
+<i>But that day...</i>
+
+546
+00:45:38,572 --> 00:45:40,282
+- ...is not this day.
+- <i>...is not this day.</i>
+
+547
+00:45:40,866 --> 00:45:41,950
+- <i>I got it.</i>
+- [chuckles]
+
+548
+00:45:45,871 --> 00:45:47,122
+Jules, I've missed you.
+
+549
+00:46:00,302 --> 00:46:02,262
+And I have found out so much
+about the universe
+
+550
+00:46:02,346 --> 00:46:04,348
+that I would love to bore you with, so...
+[chuckles]
+
+551
+00:46:05,390 --> 00:46:09,144
+<i>I can't wait for you to bore me with that.</i>
+[chuckles]
+
+552
+00:46:12,898 --> 00:46:14,149
+So, I, um...
+
+553
+00:46:14,816 --> 00:46:16,902
+[sniffles] I need to
+do something first, okay?
+
+554
+00:46:17,694 --> 00:46:21,740
+<i>I can't stop thinking about that door
+you found in the Digger Void.</i>
+
+555
+00:46:23,909 --> 00:46:25,077
+I have to go there.
+
+556
+00:46:26,286 --> 00:46:27,788
+<i>I need to know where it leads.</i>
+
+557
+00:46:39,716 --> 00:46:41,426
+[tech] Hey. You with us?
+
+558
+00:46:42,427 --> 00:46:44,221
+Hello. Hey.
+
+559
+00:46:44,888 --> 00:46:47,766
+Yeah. There he is. I see you in there.
+
+560
+00:46:50,185 --> 00:46:52,688
+Whoa, whoa, whoa. Easy, easy, easy.
+
+561
+00:46:53,355 --> 00:46:56,817
+M-My name's Phil. I-I'm your greeter.
+Do you know who you are?
+
+562
+00:46:56,900 --> 00:46:58,443
+- Do you remember your name?
+- Troy.
+
+563
+00:46:58,527 --> 00:47:01,446
+Troy. Excellent, Troy.
+A-And what do you do?
+
+564
+00:47:02,197 --> 00:47:03,699
+I'm a specialist.
+
+565
+00:47:03,782 --> 00:47:05,075
+Perfect.
+
+566
+00:47:05,158 --> 00:47:08,787
+It's been 35 years
+since your last assignment.
+
+567
+00:47:08,871 --> 00:47:11,582
+But l-listen,
+we had to rapid-sequence you.
+
+568
+00:47:11,665 --> 00:47:13,584
+Your core temp is still really low.
+
+569
+00:47:13,667 --> 00:47:15,669
+We're gonna
+administer a thermal flush, okay?
+
+570
+00:47:15,752 --> 00:47:17,004
+- Fuck.
+- I know. I know.
+
+571
+00:47:17,087 --> 00:47:18,672
+Can you lie back for me? I've got you.
+
+572
+00:47:18,755 --> 00:47:20,716
+Just go back. All the way back.
+
+573
+00:47:20,799 --> 00:47:23,552
+You want something to bite on?
+There you go.
+
+574
+00:47:24,553 --> 00:47:26,555
+[Daniel shouting]
+
+575
+00:47:31,059 --> 00:47:32,686
+[sighs] Where's Victor?
+
+576
+00:47:33,187 --> 00:47:36,857
+[Phil] Oof, you got me.
+He's probably dealing with some situation.
+
+577
+00:47:37,482 --> 00:47:38,775
+What situation?
+
+578
+00:47:38,859 --> 00:47:40,027
+[scoffs]
+
+579
+00:47:40,110 --> 00:47:41,904
+Yeah, you'd think they'd tell us,
+wouldn't you?
+
+580
+00:47:42,404 --> 00:47:45,032
+I mean,
+we're the first faces you guys see.
+
+581
+00:47:45,115 --> 00:47:47,910
+There's no reason we couldn't give you
+a speedy wee briefing.
+
+582
+00:47:47,993 --> 00:47:49,494
+Hey. When you get upstairs,
+
+583
+00:47:49,578 --> 00:47:53,999
+maybe mention to somebody that,
+you know, we're not just cryo monkeys.
+
+584
+00:47:54,791 --> 00:47:59,505
+We-We manage the defrost,
+we handle medical emergencies.
+
+585
+00:47:59,588 --> 00:48:01,298
+We're skilled professionals.
+
+586
+00:48:01,381 --> 00:48:06,386
+I know you work with a lot of shifts.
+But trust me, our shift, J-7, the best.
+
+587
+00:48:06,470 --> 00:48:09,431
+Great people, great chemistry,
+lots of hustle.
+
+588
+00:48:09,515 --> 00:48:12,434
+Shift boss can be a bit of a dick
+but he's just trying to keep us on point,
+
+589
+00:48:12,518 --> 00:48:14,728
+making sure we're
+all giving the Silo 110%.
+
+590
+00:48:14,811 --> 00:48:16,647
+And we have amazing parties.
+You should come.
+
+591
+00:48:16,730 --> 00:48:18,774
+People would go nuts to meet the guy
+that solved Silo 17--
+
+592
+00:48:18,857 --> 00:48:22,778
+Troy. Joel, J-7 shift boss.
+I'll walk you the rest of the way.
+
+593
+00:48:23,362 --> 00:48:24,363
+Thanks, Phil.
+
+594
+00:48:27,115 --> 00:48:28,909
+We came on shift five months ago.
+
+595
+00:48:29,743 --> 00:48:32,579
+About three months ago,
+Silo 18 destabilized.
+
+596
+00:48:33,080 --> 00:48:36,208
+That was after their sheriff,
+Juliette Nichols, was sent out to clean.
+
+597
+00:48:36,291 --> 00:48:41,129
+Somehow, she got hold of the good tape,
+made it over the hill to Silo 17 and back.
+
+598
+00:48:44,258 --> 00:48:46,301
+Hell, Victor was prepping a Safeguard
+
+599
+00:48:46,385 --> 00:48:48,595
+when their head of IT threw in
+with the rebels.
+
+600
+00:48:49,471 --> 00:48:51,974
+Bought 'em the time
+they needed to cap the pipe.
+
+601
+00:48:54,977 --> 00:48:56,311
+Where's Victor?
+
+602
+00:48:56,395 --> 00:48:58,397
+[Joel] Uh, this...
+They're trying to locate him.
+
+603
+00:48:58,981 --> 00:49:02,943
+Uh... We have aerial surveillance,
+fully armed and we're making preparations
+
+604
+00:49:03,026 --> 00:49:05,737
+in case you decide
+an external Safeguard is indicated.
+
+605
+00:49:05,821 --> 00:49:08,657
+- External Safeguard?
+- Yeah, what you did in 17.
+
+606
+00:49:08,740 --> 00:49:09,741
+That's what we call it.
+
+607
+00:49:11,159 --> 00:49:12,995
+This Juliette Nichols
+doesn't sound stupid.
+
+608
+00:49:13,078 --> 00:49:16,373
+If she saw what happened to 17, she's
+probably not gonna let her people go out.
+
+609
+00:49:17,583 --> 00:49:19,126
+- Yeah.
+- [phone rings]
+
+610
+00:49:20,169 --> 00:49:21,545
+[clears throat] Operations.
+
+611
+00:49:22,212 --> 00:49:23,213
+Yes.
+
+612
+00:49:24,506 --> 00:49:25,507
+All right.
+
+613
+00:49:25,591 --> 00:49:28,719
+Uh... Troy,
+Victor's requested you in his quarters.
+
+614
+00:49:29,803 --> 00:49:31,638
+[Daniel] Let me know if anything changes.
+
+615
+00:49:32,222 --> 00:49:33,265
+[Joel] Will do.
+
+616
+00:49:37,019 --> 00:49:38,937
+It can carry this many people, right?
+
+617
+00:49:39,021 --> 00:49:40,397
+We'll see, won't we?
+
+618
+00:49:51,283 --> 00:49:52,576
+[Daniel] Victor asked to see me.
+
+619
+00:49:53,327 --> 00:49:55,204
+- I asked to see you.
+- Henry.
+
+620
+00:49:56,121 --> 00:49:57,456
+This your shift?
+
+621
+00:49:57,539 --> 00:50:00,042
+No, I was rapid-sequenced, just like you.
+
+622
+00:50:00,125 --> 00:50:02,044
+What do they need Internal Security for?
+
+623
+00:50:02,711 --> 00:50:04,004
+[sighs]
+
+624
+00:50:16,058 --> 00:50:17,059
+Fuck.
+
+625
+00:50:17,935 --> 00:50:18,936
+[Henry] Yeah.
+
+626
+00:50:20,395 --> 00:50:21,396
+[Daniel sighs]
+
+627
+00:50:21,480 --> 00:50:23,232
+[sighs] We don't want this getting out.
+
+628
+00:50:23,315 --> 00:50:24,775
+No, of course not.
+
+629
+00:50:25,943 --> 00:50:27,152
+[Henry sighs]
+
+630
+00:50:29,696 --> 00:50:30,739
+You okay?
+
+631
+00:50:31,865 --> 00:50:34,159
+[Daniel] Yeah. I mean, yeah.
+
+632
+00:50:34,243 --> 00:50:35,994
+I just... I don't know what to say.
+
+633
+00:50:37,538 --> 00:50:39,873
+Founder kills himself. [sighs]
+
+634
+00:50:40,791 --> 00:50:42,292
+That's a big fucking deal.
+
+635
+00:50:42,376 --> 00:50:44,169
+Mmm. Did he leave a note?
+
+636
+00:50:44,253 --> 00:50:45,921
+- Haven't found one.
+- Mmm.
+
+637
+00:50:46,004 --> 00:50:50,759
+But the last thing he ordered before he...
+was that you be woken up.
+
+638
+00:50:51,760 --> 00:50:56,348
+So, I thought you might have some insight
+into what was troubling him.
+
+639
+00:51:00,185 --> 00:51:03,355
+You two worked together many times.
+
+640
+00:51:03,438 --> 00:51:07,192
+Almost seemed like he wanted
+to be on shift when you were.
+
+641
+00:51:12,406 --> 00:51:13,949
+I have no idea.
+
+642
+00:51:14,783 --> 00:51:17,119
+I sometimes got the sense that he, uh...
+
+643
+00:51:18,453 --> 00:51:22,040
+he knew me from before,
+but obviously he couldn't say.
+
+644
+00:51:22,124 --> 00:51:23,208
+No.
+
+645
+00:51:35,053 --> 00:51:36,263
+He was a good man.
+
+646
+00:51:37,139 --> 00:51:39,308
+I liked him. I just...
+
+647
+00:51:39,975 --> 00:51:42,686
+I don't know if I ever really knew him.
+
+648
+00:51:47,357 --> 00:51:48,525
+[door opens]
+
+649
+00:52:05,876 --> 00:52:08,921
+[Juliette gasps] Okay.
+
+650
+00:52:09,546 --> 00:52:10,589
+You guys okay?
+
+651
+00:52:12,716 --> 00:52:13,926
+Thought you didn't like water.
+
+652
+00:52:14,009 --> 00:52:15,260
+Yeah, I don't.
+
+653
+00:52:15,969 --> 00:52:17,679
+And since 17, I hate it.
+
+654
+00:52:19,014 --> 00:52:20,307
+Okay, so,
+
+655
+00:52:20,891 --> 00:52:23,936
+Lukas said that he went left
+of the digger, so...
+
+656
+00:52:26,188 --> 00:52:27,189
+- Yeah?
+- All right.
+
+657
+00:52:42,996 --> 00:52:45,290
+[Juliette] Okay, let's go.
+
+658
+00:52:54,925 --> 00:52:57,302
+Joel, I need to listen to playback
+of the conversation
+
+659
+00:52:57,386 --> 00:52:58,762
+between Victor and Camille Sims.
+
+660
+00:52:58,846 --> 00:53:00,764
+- Yes, sir.
+- And who's on shift in Engineering?
+
+661
+00:53:00,848 --> 00:53:02,558
+Uh... I'll find out.
+
+662
+00:53:02,641 --> 00:53:03,809
+Have them standing by.
+
+663
+00:53:03,892 --> 00:53:05,602
+We're gonna find a way
+to Safeguard Silo 18.
+
+664
+00:53:05,686 --> 00:53:06,687
+Sir.
+
+665
+00:53:09,147 --> 00:53:10,148
+Troy.
+
+666
+00:53:11,191 --> 00:53:13,861
+There's activity near 18's Forward Vault.
+
+667
+00:53:13,944 --> 00:53:14,945
+Really?
+
+668
+00:53:16,029 --> 00:53:17,489
+- Put it up.
+- [Joel] You got it.
+
+669
+00:53:32,171 --> 00:53:34,840
+[Hank] So, what now?
+
+670
+00:53:37,176 --> 00:53:40,596
+[Juliette] Lukas said he just touched it.
+
+671
+00:53:48,562 --> 00:53:49,813
+[The Algorithm] <i>Juliette Nichols.</i>
+
+672
+00:53:49,897 --> 00:53:52,649
+<i>Do not attempt at
+any further investigation.</i>
+
+673
+00:53:53,358 --> 00:53:54,359
+Why?
+
+674
+00:53:54,860 --> 00:53:56,486
+What are you afraid we'll find?
+
+675
+00:53:57,196 --> 00:53:58,947
+[The Algorithm]
+<i>Return above the digger barrier...</i>
+
+676
+00:53:59,031 --> 00:54:01,825
+and do not attempt to investigate further.
+
+677
+00:54:02,784 --> 00:54:04,661
+<i>What will happen if we don't?</i>
+
+678
+00:54:05,204 --> 00:54:08,040
+Every living thing in your silo will die.
+
+679
+00:54:08,123 --> 00:54:11,335
+<i>You've already tried that and failed.
+And we know you're gonna keep trying.</i>
+
+680
+00:54:11,418 --> 00:54:12,419
+<i>So</i>
+
+681
+00:54:13,128 --> 00:54:14,630
+<i>what do we have to lose?</i>
+
+682
+00:54:17,257 --> 00:54:18,258
+[sighs]
+
+683
+00:54:27,309 --> 00:54:31,396
+[The Algorithm] <i>As long as you make
+no attempt to contact another silo,</i>
+
+684
+00:54:32,147 --> 00:54:33,982
+<i>there will be no Safeguard.</i>
+
+685
+00:54:34,900 --> 00:54:36,360
+You're offering us a deal?
+
+686
+00:54:40,489 --> 00:54:41,782
+A compromise.
+
+687
+00:54:42,407 --> 00:54:43,867
+<i>A compromise?</i> [scoffs]
+
+688
+00:54:47,496 --> 00:54:48,497
+That's fair.
+
+689
+00:54:51,625 --> 00:54:52,626
+We accept.
+
+690
+00:54:59,716 --> 00:55:01,635
+Okay. Let's go.
+
+691
+00:55:12,938 --> 00:55:14,189
+[typing]
+
+692
+00:55:15,607 --> 00:55:17,067
+[beeping]
+
+693
+00:55:49,391 --> 00:55:51,643
+Wait, can we just... What the fuck was that?
+Will you just stop?
+
+694
+00:55:51,727 --> 00:55:53,937
+Hey, shh! Hey.
+
+695
+00:55:56,356 --> 00:55:57,941
+[Hank] What the fuck just happened?
+
+696
+00:55:58,025 --> 00:55:59,776
+You don't really believe they'll stop,
+do you?
+
+697
+00:55:59,860 --> 00:56:01,153
+No. Of course not.
+
+698
+00:56:03,572 --> 00:56:04,573
+Okay, so,
+
+699
+00:56:05,449 --> 00:56:07,242
+we know they can't Safeguard us.
+
+700
+00:56:07,326 --> 00:56:09,369
+Yeah, but they are gonna do something.
+
+701
+00:56:09,453 --> 00:56:11,788
+If they attack from above,
+we'll see them coming.
+
+702
+00:56:11,872 --> 00:56:13,373
+They could drill underground.
+
+703
+00:56:13,999 --> 00:56:16,585
+Punch a hole through the outer wall
+of the Silo, deliver the poison.
+
+704
+00:56:16,668 --> 00:56:18,253
+We wouldn't know
+until they were almost here.
+
+705
+00:56:18,337 --> 00:56:22,883
+It might be easier than that. That door,
+they could get poison in through there.
+
+706
+00:56:22,966 --> 00:56:24,051
+We could weld it shut.
+
+707
+00:56:24,134 --> 00:56:26,428
+Or we put a bunch of guys
+with guns watching it.
+
+708
+00:56:26,512 --> 00:56:30,349
+No. But all the other silos,
+they face the same threat.
+
+709
+00:56:30,432 --> 00:56:31,767
+- And what? You wanna warn them?
+- No.
+
+710
+00:56:31,850 --> 00:56:33,227
+I mean, they told us not to do that.
+
+711
+00:56:33,310 --> 00:56:35,062
+There's no way to do that anyways.
+
+712
+00:56:35,145 --> 00:56:37,898
+Look, we need to focus on our survival.
+
+713
+00:56:37,981 --> 00:56:38,982
+Right?
+
+714
+00:56:40,651 --> 00:56:42,319
+That's what they're expecting us to do.
+
+715
+00:56:46,532 --> 00:56:50,953
+They're expecting us to prepare
+to defend ourselves, right?
+
+716
+00:56:51,662 --> 00:56:56,458
+Which means they won't be prepared
+to defend themselves against us.
+
+717
+00:56:58,710 --> 00:57:03,048
+So, if we get to them first,
+we could protect everyone.
+
+718
+00:57:08,095 --> 00:57:09,930
+We need to take out Silo 1.
+
+719
+00:57:46,049 --> 00:57:47,050
+<i>Hello, Troy.</i>
+
+720
+00:57:49,428 --> 00:57:52,514
+<i>By now you're aware that
+I've taken myself off shift.</i>
+
+721
+00:57:54,016 --> 00:57:55,225
+<i>Permanently.</i>
+
+722
+00:58:01,190 --> 00:58:03,066
+<i>You don't need to know all the reasons.</i>
+
+723
+00:58:05,777 --> 00:58:07,196
+<i>I'll just say that</i>
+
+724
+00:58:07,988 --> 00:58:11,241
+<i>when our attempted Safeguard
+of Silo 18 failed,</i>
+
+725
+00:58:13,160 --> 00:58:14,328
+<i>I realized...</i>
+
+726
+00:58:16,413 --> 00:58:17,581
+<i>more than anything...</i>
+
+727
+00:58:19,708 --> 00:58:21,084
+<i>I was relieved.</i>
+
+728
+00:58:27,716 --> 00:58:28,884
+<i>The last time we talked,</i>
+
+729
+00:58:29,927 --> 00:58:31,678
+<i>you asked me about a woman.</i>
+
+730
+00:58:33,514 --> 00:58:35,265
+<i>And I made you a promise.</i>
+
+731
+00:58:38,101 --> 00:58:40,312
+<i>Her name is Helen Drew.</i>
+
+732
+00:59:07,506 --> 00:59:08,549
+[exhales shakily]
+
+733
+00:59:14,012 --> 00:59:15,389
+Helen Drew.
+
+734
+00:59:17,266 --> 00:59:18,267
+[gasps]
+
