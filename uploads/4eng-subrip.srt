@@ -1,0 +1,3162 @@
+1
+00:00:14,056 --> 00:00:15,557
+<i>Authorize Hal Jordan.</i>
+
+2
+00:00:16,725 --> 00:00:18,352
+<i>Access granted.</i>
+
+3
+00:00:20,521 --> 00:00:21,563
+<i>Sinestro.</i>
+
+4
+00:00:22,064 --> 00:00:23,272
+Hal.
+
+5
+00:00:23,273 --> 00:00:24,858
+Tell me what you know about Manhunters.
+
+6
+00:00:25,692 --> 00:00:28,529
+No hello? No how have I been?
+
+7
+00:00:30,113 --> 00:00:31,990
+Hello, Sinestro, how have you been?
+
+8
+00:00:32,491 --> 00:00:34,826
+Now, what the fuck
+do you know about Manhunters?
+
+9
+00:00:35,369 --> 00:00:36,828
+If one still existed,
+
+10
+00:00:37,829 --> 00:00:40,874
+it'd be the second greatest threat
+you're currently facing.
+
+11
+00:00:42,626 --> 00:00:44,711
+So, why don't you tell me
+about John Stewart?
+
+12
+00:00:46,004 --> 00:00:47,339
+Where'd you hear that name?
+
+13
+00:00:48,131 --> 00:00:49,132
+Around.
+
+14
+00:00:50,217 --> 00:00:51,218
+"Around"?
+
+15
+00:00:52,135 --> 00:00:54,637
+You're locked up in a cell
+in the middle of fucking nowhere.
+
+16
+00:00:54,638 --> 00:00:55,973
+My trainee has a trainee.
+
+17
+00:00:56,473 --> 00:00:58,891
+It's not unreasonable
+for such seismic news
+
+18
+00:00:58,892 --> 00:01:00,142
+to find its way to me.
+
+19
+00:01:00,143 --> 00:01:01,394
+He's not my trainee.
+
+20
+00:01:01,395 --> 00:01:03,479
+He's a contingency plan. A backup.
+
+21
+00:01:03,480 --> 00:01:04,855
+Where did the Guardians find him?
+
+22
+00:01:04,856 --> 00:01:07,359
+- I don't care where they found him.
+- I care, Hal.
+
+23
+00:01:18,453 --> 00:01:19,454
+Marines.
+
+24
+00:01:20,414 --> 00:01:22,290
+They found him in the Marines.
+
+25
+00:01:22,291 --> 00:01:25,210
+- And that is Earth military.
+- What the fuck do you care?
+
+26
+00:01:26,712 --> 00:01:29,214
+You don't really believe
+he's your backup, do you, Hal?
+
+27
+00:01:30,882 --> 00:01:31,883
+No.
+
+28
+00:01:33,302 --> 00:01:35,220
+Then say what he actually is.
+
+29
+00:01:41,852 --> 00:01:42,936
+My replacement.
+
+30
+00:02:04,291 --> 00:02:05,374
+Hey, Dad.
+
+31
+00:02:05,375 --> 00:02:06,792
+<i>They need to speak with you.</i>
+
+32
+00:02:06,793 --> 00:02:08,544
+<i>You've got 20 minutes. Get to a pay phone</i>
+
+33
+00:02:08,545 --> 00:02:09,755
+<i>and I'll patch you in.</i>
+
+34
+00:02:12,424 --> 00:02:13,633
+Yeah, I can't right now.
+
+35
+00:02:13,634 --> 00:02:15,051
+<i>What do you mean you can't?</i>
+
+36
+00:02:15,052 --> 00:02:16,594
+We're working a case.
+
+37
+00:02:16,595 --> 00:02:18,220
+Jordan's keeping me busy.
+
+38
+00:02:18,221 --> 00:02:20,974
+<i>Not acceptable.
+I'm putting your mother on.</i>
+
+39
+00:02:22,809 --> 00:02:25,020
+<i>Hey, Bernadette,
+I got our son on the phone.</i>
+
+40
+00:02:26,855 --> 00:02:29,566
+<i>You really will need
+to kill John Stewart, though.</i>
+
+41
+00:02:30,567 --> 00:02:31,568
+<i>No.</i>
+
+42
+00:02:32,778 --> 00:02:35,197
+- Jordan?
+<i>- And why not?</i>
+
+43
+00:02:38,992 --> 00:02:40,159
+Because I'm not evil.
+
+44
+00:02:40,160 --> 00:02:43,288
+No, you're not evil. You're just...
+
+45
+00:02:45,999 --> 00:02:47,626
+What's that word you're fighting?
+
+46
+00:02:48,502 --> 00:02:49,669
+Old.
+
+47
+00:02:49,670 --> 00:02:51,088
+Experienced.
+
+48
+00:02:51,672 --> 00:02:53,964
+They want to replace me
+with Johnny Try-Hard?
+
+49
+00:02:53,965 --> 00:02:55,092
+It's fine with me.
+
+50
+00:02:55,676 --> 00:02:57,259
+The guy's too perfect anyway.
+
+51
+00:02:57,260 --> 00:02:59,554
+Besides that, he's fucking boring.
+
+52
+00:03:00,180 --> 00:03:01,555
+Stewart, do you respect him?
+
+53
+00:03:01,556 --> 00:03:03,683
+I don't want to murder him,
+doesn't mean I like him.
+
+54
+00:03:03,684 --> 00:03:05,268
+I didn't say like. I said respect.
+
+55
+00:03:05,811 --> 00:03:06,812
+Well...
+
+56
+00:03:07,729 --> 00:03:09,898
+It's obvious you don't know
+anything about Manhunters,
+
+57
+00:03:10,524 --> 00:03:12,609
+so enjoy your solitary fucks.
+
+58
+00:03:13,694 --> 00:03:15,987
+Is one still alive? On Earth?
+
+59
+00:03:22,786 --> 00:03:23,953
+What do you know?
+
+60
+00:03:23,954 --> 00:03:26,331
+Manhunters are believed to be extinct.
+
+61
+00:03:27,124 --> 00:03:28,833
+I know other things about them too.
+
+62
+00:03:28,834 --> 00:03:31,293
+Unique aspects of their physiology
+
+63
+00:03:31,294 --> 00:03:34,089
+that cannot be changed
+when they take a new form.
+
+64
+00:03:34,840 --> 00:03:36,758
+If one were alive on your planet,
+
+65
+00:03:38,176 --> 00:03:41,054
+that information would be
+of great interest to the Guardians.
+
+66
+00:03:43,974 --> 00:03:46,142
+Deliver the Manhunter to the Guardians
+
+67
+00:03:46,143 --> 00:03:47,978
+and disgrace Stewart in the process.
+
+68
+00:03:49,771 --> 00:03:51,856
+Tell me, does he speak
+to the Guardians directly?
+
+69
+00:03:51,857 --> 00:03:53,816
+- He says he doesn't.
+- And you believed him?
+
+70
+00:03:53,817 --> 00:03:56,902
+He found out about the Manhunter,
+he could've kept it to himself.
+
+71
+00:03:56,903 --> 00:03:58,279
+All he does is follow orders.
+
+72
+00:03:58,280 --> 00:03:59,905
+Well, then he can be controlled.
+
+73
+00:03:59,906 --> 00:04:02,575
+Make him believe
+that you're embracing his worthiness
+
+74
+00:04:02,576 --> 00:04:04,161
+as your replacement.
+
+75
+00:04:05,203 --> 00:04:07,580
+- Is he fearless?
+- He may be.
+
+76
+00:04:07,581 --> 00:04:10,291
+Then he will be arrogant,
+overly confident,
+
+77
+00:04:10,292 --> 00:04:13,003
+thus blindly oblivious
+to your true intent.
+
+78
+00:04:17,215 --> 00:04:19,049
+Is that how you fooled me?
+
+79
+00:04:19,050 --> 00:04:21,011
+I was never anything but myself.
+
+80
+00:04:21,720 --> 00:04:23,597
+My ambition was always a threat.
+
+81
+00:04:24,890 --> 00:04:26,600
+You simply chose not to see it.
+
+82
+00:04:29,561 --> 00:04:31,938
+Do not make the same mistake
+with John Stewart.
+
+83
+00:05:04,012 --> 00:05:05,263
+God damn.
+
+84
+00:05:06,515 --> 00:05:08,891
+It's that big, green asshole's sidekick.
+
+85
+00:05:08,892 --> 00:05:11,269
+Hey. Uh, I need a scope.
+
+86
+00:05:11,895 --> 00:05:14,021
+A Schmidt & Bender,
+but I'll take a Leupold
+
+87
+00:05:14,022 --> 00:05:16,817
+or whatever scope
+y'all sell with the McMillan.
+
+88
+00:05:17,651 --> 00:05:19,151
+Can't sell you a scope without a gun.
+
+89
+00:05:19,152 --> 00:05:20,361
+Oh, no, I don't want the gun.
+
+90
+00:05:20,362 --> 00:05:22,279
+Well, then you're shit out of luck.
+
+91
+00:05:22,280 --> 00:05:23,448
+It's a package deal.
+
+92
+00:05:24,074 --> 00:05:25,617
+Kind of like you and your boss.
+
+93
+00:05:26,451 --> 00:05:27,452
+Where is he, anyway?
+
+94
+00:05:28,745 --> 00:05:31,956
+Okay, I'll, uh, I'll get a rifle
+and a scope, please.
+
+95
+00:05:31,957 --> 00:05:33,166
+Thank you.
+
+96
+00:05:42,342 --> 00:05:43,926
+Let me guess, if I want the tomato,
+
+97
+00:05:43,927 --> 00:05:45,387
+I gotta get the ham too?
+
+98
+00:05:55,063 --> 00:05:56,731
+All right, thank you.
+
+99
+00:05:57,232 --> 00:05:58,233
+Hey.
+
+100
+00:05:58,984 --> 00:06:00,151
+Y'all were a blast.
+
+101
+00:06:22,132 --> 00:06:23,425
+Oh, come on, man.
+
+102
+00:06:25,468 --> 00:06:27,177
+Any sign of our mysterious benefactor?
+
+103
+00:06:27,178 --> 00:06:28,888
+You can just call him a Manhunter.
+
+104
+00:06:28,889 --> 00:06:30,181
+It sounds less stupid.
+
+105
+00:06:30,849 --> 00:06:32,433
+You think he's coming in on that chopper.
+
+106
+00:06:32,434 --> 00:06:33,642
+That's why you're up here.
+
+107
+00:06:33,643 --> 00:06:35,394
+See if he lands on that ranch, huh?
+
+108
+00:06:35,395 --> 00:06:37,021
+Couldn't see who's on board.
+
+109
+00:06:37,022 --> 00:06:38,898
+Would've been nice
+if you were here since you can fly.
+
+110
+00:06:38,899 --> 00:06:40,024
+Knocked on your door,
+
+111
+00:06:40,025 --> 00:06:41,860
+- you weren't there.
+- I was getting laid in space.
+
+112
+00:06:42,485 --> 00:06:44,613
+Were you worried about me, Junior?
+
+113
+00:06:45,572 --> 00:06:47,907
+I was concerned about the alien hit squad
+
+114
+00:06:47,908 --> 00:06:50,452
+that's gonna find us
+in 36 hours if we don't deliver.
+
+115
+00:06:51,036 --> 00:06:52,328
+So what'd you learn up here, anyway?
+
+116
+00:06:52,329 --> 00:06:54,204
+The four guard towers on the ranch
+
+117
+00:06:54,205 --> 00:06:56,332
+- share the same line of sight.
+- Which means what?
+
+118
+00:06:56,333 --> 00:06:58,375
+Well, I think it means
+that there's a hidden structure
+
+119
+00:06:58,376 --> 00:06:59,460
+on the compound.
+
+120
+00:06:59,461 --> 00:07:01,629
+One that is obscured
+from every vantage point,
+
+121
+00:07:01,630 --> 00:07:03,422
+except those guard towers,
+
+122
+00:07:03,423 --> 00:07:05,633
+and that's exactly where
+that chopper just landed.
+
+123
+00:07:05,634 --> 00:07:07,093
+That building is a weenie.
+
+124
+00:07:07,719 --> 00:07:09,595
+- What'd you say?
+- It's a...
+
+125
+00:07:09,596 --> 00:07:11,931
+It's an architectural term
+that Walt Disney made up
+
+126
+00:07:11,932 --> 00:07:13,599
+for structures on his property.
+
+127
+00:07:13,600 --> 00:07:15,809
+Think Sleeping Beauty's castle
+at Disneyland.
+
+128
+00:07:15,810 --> 00:07:16,895
+Wait, wait, wait.
+
+129
+00:07:18,188 --> 00:07:19,980
+- You've been to Disneyland?
+- No, of course not.
+
+130
+00:07:19,981 --> 00:07:21,440
+They didn't let me in.
+
+131
+00:07:21,441 --> 00:07:22,983
+It's the happiest place on Earth,
+
+132
+00:07:22,984 --> 00:07:25,236
+but they... they said I'd kill the vibe.
+
+133
+00:07:25,987 --> 00:07:27,364
+Did you just make a joke?
+
+134
+00:07:28,782 --> 00:07:30,825
+Look, so Walt Disney
+
+135
+00:07:31,326 --> 00:07:33,994
+built his parks around the weenie,
+
+136
+00:07:33,995 --> 00:07:36,413
+and I'm thinking
+that Macon's done the same thing
+
+137
+00:07:36,414 --> 00:07:38,165
+- on his compound.
+- So you think the Manhunter's
+
+138
+00:07:38,166 --> 00:07:39,667
+- inside Macon's weenie?
+- Maybe.
+
+139
+00:07:39,668 --> 00:07:41,210
+I mean, the chopper's easy to track.
+
+140
+00:07:41,211 --> 00:07:43,796
+It lands the same time every day at 9:17.
+
+141
+00:07:43,797 --> 00:07:47,216
+No pilot would do that every day
+unless it was on purpose.
+
+142
+00:07:47,217 --> 00:07:48,842
+It could be a decoy.
+
+143
+00:07:48,843 --> 00:07:52,137
+If it is a decoy, then maybe
+the Manhunter's not even on the compound.
+
+144
+00:07:52,138 --> 00:07:53,847
+Just gotta get inside to find out.
+
+145
+00:07:53,848 --> 00:07:55,474
+First, we gotta find Sheriff Kane.
+
+146
+00:07:55,475 --> 00:07:57,643
+I gave her my word
+that we'd keep her looped in.
+
+147
+00:07:57,644 --> 00:07:59,895
+Sheriff Kane? Mm-hmm.
+
+148
+00:07:59,896 --> 00:08:01,481
+Mm-hmm, what?
+
+149
+00:08:02,565 --> 00:08:03,649
+She's married.
+
+150
+00:08:03,650 --> 00:08:07,194
+And unlike you,
+I respect the matrimonial bond.
+
+151
+00:08:07,195 --> 00:08:08,196
+I believe you.
+
+152
+00:08:09,739 --> 00:08:11,199
+Let's go. I'll fly us over.
+
+153
+00:08:12,033 --> 00:08:13,243
+How's that gonna work?
+
+154
+00:08:14,285 --> 00:08:16,912
+Well, I can either carry you like a baby,
+
+155
+00:08:16,913 --> 00:08:19,081
+or you can hop on
+and pretend like I'm a horse.
+
+156
+00:08:19,082 --> 00:08:20,083
+Nah, I'm good.
+
+157
+00:08:32,137 --> 00:08:34,096
+So, this is your jurisdiction too, huh?
+
+158
+00:08:34,097 --> 00:08:36,182
+My husband owns the bar, so yeah.
+
+159
+00:08:36,766 --> 00:08:38,100
+Thought he was a lawyer.
+
+160
+00:08:38,101 --> 00:08:40,311
+Everybody in Rushville multi-tasks.
+
+161
+00:08:43,982 --> 00:08:44,983
+Okay.
+
+162
+00:08:46,234 --> 00:08:47,818
+Why don't you go with this one?
+
+163
+00:08:47,819 --> 00:08:49,570
+Really? How much you want me to say?
+
+164
+00:08:49,571 --> 00:08:51,613
+- Tell her all of it.
+- Okay.
+
+165
+00:08:51,614 --> 00:08:54,283
+Um, so there's
+an interplanetary war criminal
+
+166
+00:08:54,284 --> 00:08:55,784
+hiding here in Rushville.
+
+167
+00:08:55,785 --> 00:08:57,537
+The technical term is a Manhunter.
+
+168
+00:08:58,329 --> 00:08:59,330
+Sorry.
+
+169
+00:09:00,415 --> 00:09:01,416
+Manhunter?
+
+170
+00:09:02,292 --> 00:09:03,375
+Really?
+
+171
+00:09:03,376 --> 00:09:05,294
+You remember those--
+our buddies at the game.
+
+172
+00:09:05,295 --> 00:09:07,755
+Well, the one at the station,
+he wasn't the last one.
+
+173
+00:09:07,756 --> 00:09:10,091
+Apparently there's a crew
+of 'em here to assassinate the...
+
+174
+00:09:10,842 --> 00:09:12,926
+well, the thing that John just mentioned.
+
+175
+00:09:12,927 --> 00:09:13,928
+Show her the phone.
+
+176
+00:09:15,346 --> 00:09:17,182
+So one of them gave me this.
+
+177
+00:09:18,016 --> 00:09:20,350
+They said to call if we find the target.
+
+178
+00:09:20,351 --> 00:09:22,561
+If we don't find it by tomorrow night,
+
+179
+00:09:22,562 --> 00:09:24,146
+these aliens are going to waltz into town
+
+180
+00:09:24,147 --> 00:09:25,607
+and they're gonna blow up.
+
+181
+00:09:27,525 --> 00:09:30,110
+So what does this thing want?
+
+182
+00:09:30,111 --> 00:09:32,529
+We don't know, but it's been here a while.
+
+183
+00:09:32,530 --> 00:09:34,907
+How is that possible?
+Well, they can take any form.
+
+184
+00:09:34,908 --> 00:09:37,076
+It could be anyone
+hiding here in Rushville.
+
+185
+00:09:37,077 --> 00:09:39,745
+So, line everyone up,
+put them through those alien detectors.
+
+186
+00:09:39,746 --> 00:09:40,913
+Well, we can't do that.
+
+187
+00:09:40,914 --> 00:09:43,458
+Manhunters aren't alien.
+They're something else.
+
+188
+00:09:45,210 --> 00:09:46,211
+Great.
+
+189
+00:09:47,545 --> 00:09:50,298
+So everybody's a threat
+and we're all in danger?
+
+190
+00:09:52,383 --> 00:09:54,427
+If it could be anyone, why not me?
+
+191
+00:09:54,928 --> 00:09:56,720
+A long time ago,
+
+192
+00:09:56,721 --> 00:09:58,847
+a Lantern by the name
+of Abin Sur crashed here.
+
+193
+00:09:58,848 --> 00:10:01,558
+We don't know why,
+but there was a Manhunter on board.
+
+194
+00:10:01,559 --> 00:10:03,352
+Whatever identity that Manhunter took,
+
+195
+00:10:03,353 --> 00:10:06,397
+well, it wouldn't be
+on the records before that.
+
+196
+00:10:07,565 --> 00:10:10,944
+I... I looked you up.
+You are from Gotham and...
+
+197
+00:10:12,570 --> 00:10:15,406
+it's a very nice senior photo.
+I get why you dropped the bangs.
+
+198
+00:10:17,492 --> 00:10:19,202
+So who's this Manhunter?
+
+199
+00:10:20,370 --> 00:10:21,996
+I'm sure you have a theory.
+
+200
+00:10:22,914 --> 00:10:24,666
+We think it's Macon's benefactor.
+
+201
+00:10:25,750 --> 00:10:28,252
+And because your husband
+is Macon's lawyer,
+
+202
+00:10:28,253 --> 00:10:29,462
+I'm guessing
+
+203
+00:10:30,547 --> 00:10:32,715
+that you know the moneymaker's identity.
+
+204
+00:10:34,092 --> 00:10:35,385
+Honestly, I don't.
+
+205
+00:10:35,969 --> 00:10:37,470
+Come on, you're his wife.
+
+206
+00:10:38,054 --> 00:10:40,556
+We don't have that kind of relationship.
+
+207
+00:10:40,557 --> 00:10:42,141
+I've lived here a long time,
+
+208
+00:10:42,142 --> 00:10:44,018
+and I've never seen Macon's money guy.
+
+209
+00:10:44,602 --> 00:10:47,354
+How do you two even think
+you're gonna get to him?
+
+210
+00:10:47,355 --> 00:10:49,231
+We think he's in a building on the ranch.
+
+211
+00:10:49,232 --> 00:10:51,693
+Junior calls it a weenie,
+and we're gonna pay a visit to it.
+
+212
+00:10:57,157 --> 00:10:59,075
+- Okay.
+- Okay, that's it?
+
+213
+00:11:00,160 --> 00:11:02,578
+Aliens are gonna blow up my town.
+
+214
+00:11:02,579 --> 00:11:04,663
+Finding him will stop them, right?
+
+215
+00:11:04,664 --> 00:11:06,457
+Right. Probably.
+
+216
+00:11:08,793 --> 00:11:10,670
+You're only gonna get one shot at this.
+
+217
+00:11:11,337 --> 00:11:12,463
+Do not miss.
+
+218
+00:11:31,024 --> 00:11:32,399
+Hey, you think...
+
+219
+00:11:32,400 --> 00:11:34,235
+Sheriff's gonna tell Macon we're coming?
+
+220
+00:11:35,486 --> 00:11:37,196
+That would not be good.
+
+221
+00:11:37,197 --> 00:11:38,989
+- But you don't think she will?
+- I do not.
+
+222
+00:11:38,990 --> 00:11:41,033
+- And that's your gut?
+- My gut, always.
+
+223
+00:11:41,034 --> 00:11:42,702
+Okay, so now what?
+
+224
+00:11:43,286 --> 00:11:44,369
+We wait.
+
+225
+00:11:44,370 --> 00:11:46,205
+- For what?
+- Nightfall.
+
+226
+00:11:46,206 --> 00:11:49,167
+Better to burn six hours
+than die in broad daylight.
+
+227
+00:11:56,591 --> 00:11:57,634
+Copy that.
+
+228
+00:12:14,108 --> 00:12:15,610
+You failed to make contact.
+
+229
+00:12:17,028 --> 00:12:18,862
+This is disappointing.
+
+230
+00:12:18,863 --> 00:12:19,864
+I'm sorry.
+
+231
+00:12:20,823 --> 00:12:22,575
+Jordan's nearby taking a nap.
+
+232
+00:12:23,201 --> 00:12:24,910
+I was afraid he'd know if I left.
+
+233
+00:12:24,911 --> 00:12:26,703
+What are you still doing in Nebraska?
+
+234
+00:12:26,704 --> 00:12:28,248
+We're just cleaning up
+
+235
+00:12:29,040 --> 00:12:30,875
+from the alien that self-destructed.
+
+236
+00:12:31,542 --> 00:12:33,877
+Did Jordan tell you
+where he traveled last evening?
+
+237
+00:12:33,878 --> 00:12:36,172
+He said he was having sex in space.
+
+238
+00:12:38,132 --> 00:12:39,300
+That's a lie.
+
+239
+00:12:39,801 --> 00:12:41,301
+Okay, where was he?
+
+240
+00:12:41,302 --> 00:12:42,804
+Violating his oath.
+
+241
+00:12:44,305 --> 00:12:46,557
+He went to see Sinestro.
+
+242
+00:12:48,559 --> 00:12:49,810
+What did they talk about?
+
+243
+00:12:49,811 --> 00:12:51,395
+I was hoping you could tell me.
+
+244
+00:12:51,396 --> 00:12:52,479
+He doesn't tell me shit.
+
+245
+00:12:52,480 --> 00:12:55,232
+What's important is that Jordan's actions
+
+246
+00:12:55,233 --> 00:12:57,026
+have accelerated the inevitable.
+
+247
+00:12:58,569 --> 00:13:00,363
+I've spoken to the other Guardians.
+
+248
+00:13:01,614 --> 00:13:02,740
+We're in agreement.
+
+249
+00:13:04,409 --> 00:13:06,285
+During the course of your training,
+
+250
+00:13:06,286 --> 00:13:08,829
+- Jordan gives you the ring, yes?
+- Yeah.
+
+251
+00:13:08,830 --> 00:13:10,832
+The moment you put it on your finger,
+
+252
+00:13:11,541 --> 00:13:13,042
+recite the oath,
+
+253
+00:13:14,294 --> 00:13:18,673
+and you become
+Green Lantern for Sector 2814.
+
+254
+00:13:21,926 --> 00:13:22,927
+And that's it?
+
+255
+00:13:23,594 --> 00:13:25,512
+We agreed you would replace him.
+
+256
+00:13:25,513 --> 00:13:26,930
+Yeah, I just didn't realize
+
+257
+00:13:26,931 --> 00:13:29,017
+that you were gonna make me do it myself.
+
+258
+00:13:30,143 --> 00:13:31,268
+I did not realize
+
+259
+00:13:31,269 --> 00:13:32,979
+that your father's weakness
+runs within you.
+
+260
+00:13:34,981 --> 00:13:37,774
+I was promised by your mother
+that that was not the case.
+
+261
+00:13:37,775 --> 00:13:39,401
+Your mother was wrong.
+
+262
+00:13:39,402 --> 00:13:41,403
+I doubted at first when she told me
+
+263
+00:13:41,404 --> 00:13:44,282
+that you were strong,
+and that you had integrity,
+
+264
+00:13:44,782 --> 00:13:47,659
+and that your makeup was sublime
+and above most of the others,
+
+265
+00:13:47,660 --> 00:13:49,329
+that your potential was enormous.
+
+266
+00:13:50,580 --> 00:13:51,831
+I hesitated,
+
+267
+00:13:52,457 --> 00:13:54,667
+and I should have
+trusted my own instincts.
+
+268
+00:13:55,585 --> 00:13:58,713
+Jordan has filed multiple reports
+about your progress.
+
+269
+00:14:00,298 --> 00:14:02,299
+He says you lack creativity.
+
+270
+00:14:02,300 --> 00:14:04,052
+He says that you are too weak
+
+271
+00:14:04,552 --> 00:14:07,179
+to bear the massive power of the ring.
+
+272
+00:14:07,180 --> 00:14:09,140
+Well, that's because he's old.
+
+273
+00:14:09,807 --> 00:14:12,560
+And he's tired. And his time is up.
+
+274
+00:14:14,020 --> 00:14:16,438
+He's not worthy of
+the "massive power" of the ring.
+
+275
+00:14:16,439 --> 00:14:19,524
+He didn't do shit to earn it.
+And every time he looks at me,
+
+276
+00:14:19,525 --> 00:14:22,652
+he realizes that I'll do this better
+than he's ever done it before
+
+277
+00:14:22,653 --> 00:14:25,114
+because I've worked
+my entire fucking life for it.
+
+278
+00:14:28,618 --> 00:14:30,036
+The ring's always been mine.
+
+279
+00:14:31,621 --> 00:14:33,664
+That asshole's just keeping it warm.
+
+280
+00:14:35,708 --> 00:14:37,168
+Then go and get it.
+
+281
+00:14:40,129 --> 00:14:41,422
+John Stewart.
+
+282
+00:14:59,107 --> 00:15:00,524
+- You all right?
+- Hey, listen.
+
+283
+00:15:00,525 --> 00:15:02,859
+I know you're probably
+planning on just flying in
+
+284
+00:15:02,860 --> 00:15:04,069
+with your big green fist
+
+285
+00:15:04,070 --> 00:15:05,904
+and smashing shit
+until you get to the weenie,
+
+286
+00:15:05,905 --> 00:15:07,948
+and I don't want to tell you
+how to do your job.
+
+287
+00:15:07,949 --> 00:15:09,908
+- Well, then don't.
+- But each of those guard towers
+
+288
+00:15:09,909 --> 00:15:11,827
+are going to be manned
+with three sharpshooters,
+
+289
+00:15:11,828 --> 00:15:13,663
+and it will be your head next time.
+
+290
+00:15:15,373 --> 00:15:17,750
+So, I suggest
+you tunnel in from underground.
+
+291
+00:15:18,584 --> 00:15:20,586
+Well, how do you propose I do that?
+
+292
+00:15:27,093 --> 00:15:28,510
+Did you draw this just now?
+
+293
+00:15:28,511 --> 00:15:29,846
+Yeah, I'm creative.
+
+294
+00:15:30,763 --> 00:15:31,931
+Let's go.
+
+295
+00:15:47,155 --> 00:15:49,198
+Here. You manifest it.
+
+296
+00:15:52,785 --> 00:15:53,870
+What?
+
+297
+00:15:55,079 --> 00:15:56,539
+We'll call it today's lesson.
+
+298
+00:15:57,373 --> 00:15:58,374
+Go ahead.
+
+299
+00:16:24,484 --> 00:16:25,526
+Let's dig.
+
+300
+00:16:29,030 --> 00:16:30,031
+Yeah.
+
+301
+00:17:00,061 --> 00:17:01,604
+"Five degrees to the left."
+
+302
+00:17:03,064 --> 00:17:06,399
+- How do you know all this?
+- Did some research online.
+
+303
+00:17:06,400 --> 00:17:08,860
+I don't buy it. You're a Marine sniper.
+
+304
+00:17:08,861 --> 00:17:11,071
+Yeah, and after I was a Marine sniper,
+
+305
+00:17:11,072 --> 00:17:12,281
+I went to art school.
+
+306
+00:17:15,493 --> 00:17:17,954
+- Who the fuck are you?
+- Trying to concentrate.
+
+307
+00:17:18,454 --> 00:17:19,996
+Well, you should be able to concentrate
+
+308
+00:17:19,997 --> 00:17:22,040
+and take personal questions
+at the same time.
+
+309
+00:17:22,041 --> 00:17:24,418
+- Right.
+- How's your mom?
+
+310
+00:17:26,295 --> 00:17:27,754
+She's great. How's your mom?
+
+311
+00:17:27,755 --> 00:17:28,923
+Dead. Cancer.
+
+312
+00:17:30,716 --> 00:17:31,717
+Jesus.
+
+313
+00:17:32,218 --> 00:17:34,512
+- Both your parents?
+- Concentrate, will you?
+
+314
+00:17:35,429 --> 00:17:37,431
+It makes it easier. No ties.
+
+315
+00:17:38,307 --> 00:17:39,433
+Oh, I'm sorry.
+
+316
+00:17:40,768 --> 00:17:41,852
+Don't be sorry.
+
+317
+00:17:43,771 --> 00:17:45,940
+My mom had a good life, and my dad, he...
+
+318
+00:17:46,649 --> 00:17:49,025
+died the way he wanted to, a hero.
+
+319
+00:17:49,026 --> 00:17:50,111
+What was he like?
+
+320
+00:17:51,654 --> 00:17:52,655
+Fearless.
+
+321
+00:17:53,614 --> 00:17:55,741
+At least, that's what
+he wanted people to think.
+
+322
+00:17:56,867 --> 00:17:58,119
+What was he afraid of?
+
+323
+00:18:07,003 --> 00:18:08,004
+We're here.
+
+324
+00:19:54,985 --> 00:19:57,154
+No benefactor, but what the fuck?
+
+325
+00:19:58,197 --> 00:20:00,700
+These weapons are too high-tech
+to be from around here.
+
+326
+00:20:02,201 --> 00:20:03,369
+We were right.
+
+327
+00:20:04,120 --> 00:20:06,747
+- Benefactor's the Manhunter.
+- Yeah.
+
+328
+00:20:07,331 --> 00:20:08,457
+Give me my ring.
+
+329
+00:20:13,879 --> 00:20:16,297
+I just heard a click.
+Did you just hear a click?
+
+330
+00:20:16,298 --> 00:20:18,007
+Yeah. I just heard a click.
+
+331
+00:20:18,008 --> 00:20:19,218
+Don't move.
+
+332
+00:20:19,719 --> 00:20:22,722
+It's a pressure alarm.
+If you move, it'll set it off.
+
+333
+00:20:23,431 --> 00:20:24,890
+- A good movie.
+- Great movie.
+
+334
+00:20:25,933 --> 00:20:28,893
+So, we just make it believe
+that I'm still standing on it.
+
+335
+00:20:28,894 --> 00:20:30,938
+Yeah, okay. How much do you weigh?
+
+336
+00:20:31,564 --> 00:20:32,898
+One-eighty-five. Ish.
+
+337
+00:20:33,399 --> 00:20:34,400
+Okay.
+
+338
+00:20:47,037 --> 00:20:49,039
+Okay, we're gonna
+do this at the same time.
+
+339
+00:20:50,458 --> 00:20:51,709
+Three.
+
+340
+00:20:52,460 --> 00:20:53,502
+Two.
+
+341
+00:20:54,170 --> 00:20:55,212
+One.
+
+342
+00:20:56,422 --> 00:20:57,506
+I did say ish.
+
+343
+00:21:22,031 --> 00:21:23,282
+Fuck! I can't see!
+
+344
+00:21:23,866 --> 00:21:25,367
+Do something, Junior!
+
+345
+00:21:26,118 --> 00:21:27,703
+For Christ's sake, use the ring!
+
+346
+00:21:28,287 --> 00:21:29,663
+It's not fucking working!
+
+347
+00:21:42,176 --> 00:21:43,677
+Yes, sir. Two hundred a head.
+
+348
+00:21:45,763 --> 00:21:47,139
+Tonight.
+
+349
+00:22:03,739 --> 00:22:05,616
+My wife tells me you're an artist.
+
+350
+00:22:07,451 --> 00:22:08,743
+Yeah, she's right.
+
+351
+00:22:08,744 --> 00:22:10,162
+Are you talented?
+
+352
+00:22:13,499 --> 00:22:14,792
+Draw me.
+
+353
+00:22:18,963 --> 00:22:20,214
+What's your medium?
+
+354
+00:22:21,215 --> 00:22:22,216
+Charcoal.
+
+355
+00:22:23,133 --> 00:22:24,218
+Charcoal.
+
+356
+00:22:25,010 --> 00:22:26,178
+Some good stock.
+
+357
+00:22:29,390 --> 00:22:31,724
+Hey, I've seen some shit,
+
+358
+00:22:31,725 --> 00:22:34,394
+even been to a planet
+with sentient tentacles,
+
+359
+00:22:34,395 --> 00:22:36,230
+- but this is weird, right?
+- Yeah.
+
+360
+00:23:02,882 --> 00:23:04,633
+You better get to doodling, Junior.
+
+361
+00:23:07,136 --> 00:23:08,262
+Hit me.
+
+362
+00:23:10,222 --> 00:23:12,266
+Take a seat. Relax your hands.
+
+363
+00:23:17,229 --> 00:23:19,356
+Hold it there. Thank you.
+
+364
+00:23:23,444 --> 00:23:25,029
+Zoe, honey, why don't you stay?
+
+365
+00:23:29,158 --> 00:23:30,159
+Okay.
+
+366
+00:23:34,622 --> 00:23:36,164
+You can holster up, partner.
+
+367
+00:23:36,165 --> 00:23:38,333
+Junior here, he can draw from memory.
+
+368
+00:23:38,334 --> 00:23:39,792
+Is that right?
+
+369
+00:23:39,793 --> 00:23:41,545
+Well, then you could probably
+draw my wife.
+
+370
+00:23:46,008 --> 00:23:47,842
+Can we talk
+about the elephant in the room?
+
+371
+00:23:47,843 --> 00:23:49,803
+- Which elephant?
+- Not that one.
+
+372
+00:23:50,387 --> 00:23:51,930
+What goes on in this ranch?
+
+373
+00:23:51,931 --> 00:23:53,473
+Your guys, they shot darkness at us.
+
+374
+00:23:53,474 --> 00:23:54,557
+Now, call me paranoid,
+
+375
+00:23:54,558 --> 00:23:57,186
+but those guns seem tailor-made
+for disabling Green Lanterns.
+
+376
+00:23:57,811 --> 00:24:00,063
+Hey, I told you.
+We're ready for any kind of invasion.
+
+377
+00:24:00,064 --> 00:24:02,023
+Well, that's kind of worrisome, isn't it?
+
+378
+00:24:02,024 --> 00:24:05,069
+Well, it should only be worrisome
+if the Lanterns pose a threat to my boss.
+
+379
+00:24:06,278 --> 00:24:07,446
+So now he's your boss?
+
+380
+00:24:08,030 --> 00:24:09,739
+I thought he was just the benefactor.
+
+381
+00:24:09,740 --> 00:24:11,240
+Don't get caught up in semantics.
+
+382
+00:24:11,241 --> 00:24:12,325
+Boss, benefactor...
+
+383
+00:24:12,326 --> 00:24:14,161
+- How about savior?
+- Sure.
+
+384
+00:24:14,828 --> 00:24:16,121
+He did cure my cancer.
+
+385
+00:24:18,457 --> 00:24:20,542
+That's how we met. Zoe was my nurse.
+
+386
+00:24:21,377 --> 00:24:23,712
+Kept me alive
+after the doctor said I was a goner.
+
+387
+00:24:23,837 --> 00:24:27,174
+Then he came,
+worked his magic, and voilà.
+
+388
+00:24:29,510 --> 00:24:31,011
+- "His magic"?
+- So to speak.
+
+389
+00:24:32,096 --> 00:24:34,973
+- Can you relax your shoulders?
+- Now you talk about him like he's a god.
+
+390
+00:24:34,974 --> 00:24:36,725
+- I do, don't I?
+- Hey, please.
+
+391
+00:24:37,226 --> 00:24:38,560
+Could you just stay still?
+
+392
+00:24:42,189 --> 00:24:44,066
+Everything changed when he showed up.
+
+393
+00:24:45,442 --> 00:24:49,445
+Crops grow. Kids thrive.
+And you saw the hospital.
+
+394
+00:24:49,446 --> 00:24:50,781
+No one gets sick.
+
+395
+00:24:53,117 --> 00:24:55,744
+He takes care of us
+in exchange for our protection.
+
+396
+00:24:56,662 --> 00:24:59,373
+So why don't you leave
+so we can protect him?
+
+397
+00:25:00,958 --> 00:25:02,459
+Well, that's not gonna happen.
+
+398
+00:25:06,005 --> 00:25:07,256
+Well, that's unfortunate.
+
+399
+00:25:11,010 --> 00:25:13,594
+How about we skip the bluff
+where you threaten to kill me
+
+400
+00:25:13,595 --> 00:25:15,014
+with a darkness gun?
+
+401
+00:25:16,181 --> 00:25:18,433
+'Cause we both know if I end up dead,
+
+402
+00:25:18,434 --> 00:25:20,601
+there's gonna be 100 Lanterns
+at your front door,
+
+403
+00:25:20,602 --> 00:25:22,812
+and you're not even gonna
+have time to hide my body.
+
+404
+00:25:22,813 --> 00:25:23,896
+You're right.
+
+405
+00:25:23,897 --> 00:25:27,192
+Killing a Lantern
+would trigger a large response.
+
+406
+00:25:29,987 --> 00:25:31,613
+He's not a Lantern.
+
+407
+00:25:33,782 --> 00:25:36,492
+Dad, please put your dick away.
+
+408
+00:25:36,493 --> 00:25:39,912
+- Can I help you, Sheriff?
+- I got a call about trespassers.
+
+409
+00:25:39,913 --> 00:25:42,749
+- Gonna assume it was these two.
+- You're making a mistake, Kerry.
+
+410
+00:25:42,750 --> 00:25:44,333
+Just turn around and leave us be.
+
+411
+00:25:44,334 --> 00:25:47,128
+- That's not gonna happen.
+- That's exactly what I said.
+
+412
+00:25:47,129 --> 00:25:49,048
+Let's go. I'm taking you in.
+
+413
+00:25:50,549 --> 00:25:51,592
+Move.
+
+414
+00:26:15,741 --> 00:26:18,577
+You had one shot
+to get the guy and you whiffed.
+
+415
+00:26:19,078 --> 00:26:22,121
+If Zoe hadn't called me,
+you'd be beyond fucked.
+
+416
+00:26:22,122 --> 00:26:23,414
+I live in beyond fucked.
+
+417
+00:26:23,415 --> 00:26:25,333
+Jesus, what is that, a catchphrase?
+
+418
+00:26:25,334 --> 00:26:29,838
+Do you hear yourself?
+I'm in this shit with you now.
+
+419
+00:26:36,386 --> 00:26:37,804
+I broke into Billy's files.
+
+420
+00:26:37,805 --> 00:26:40,724
+I am this close
+to finding your stupid benefactor.
+
+421
+00:26:41,266 --> 00:26:43,852
+Until I do, you're gonna lock your doors
+
+422
+00:26:44,436 --> 00:26:47,396
+and you're gonna wait
+for me to tell you what happens next.
+
+423
+00:26:47,397 --> 00:26:48,565
+Is that clear?
+
+424
+00:26:51,401 --> 00:26:52,986
+Yes. Yes.
+
+425
+00:26:54,988 --> 00:26:56,531
+Superheroes don't really
+lock their doors--
+
+426
+00:26:56,532 --> 00:26:57,533
+- Say yes!
+- Yes.
+
+427
+00:26:58,534 --> 00:26:59,535
+Good.
+
+428
+00:27:00,244 --> 00:27:01,495
+You're free to go.
+
+429
+00:27:04,498 --> 00:27:05,832
+You kinda gotta let us out.
+
+430
+00:27:05,833 --> 00:27:06,917
+Oh my God.
+
+431
+00:27:16,927 --> 00:27:17,928
+Wait.
+
+432
+00:27:21,223 --> 00:27:23,183
+Sheriff, not even a date first?
+
+433
+00:27:23,684 --> 00:27:24,977
+Do you ever shut up?
+
+434
+00:27:25,686 --> 00:27:27,229
+Stewart, come here.
+
+435
+00:27:29,189 --> 00:27:31,315
+Macon let you just walk off his ranch.
+
+436
+00:27:31,316 --> 00:27:33,109
+He's not done with you two yet.
+
+437
+00:27:33,110 --> 00:27:35,612
+He knows where you are.
+He'll send someone.
+
+438
+00:27:37,573 --> 00:27:39,448
+I'd take you into protective custody,
+
+439
+00:27:39,449 --> 00:27:42,118
+but we're still trying
+to put the station back together, so...
+
+440
+00:27:42,119 --> 00:27:43,287
+Yeah, thank you.
+
+441
+00:27:44,371 --> 00:27:45,581
+Nothing for me?
+
+442
+00:27:47,374 --> 00:27:48,750
+You're a superhero.
+
+443
+00:28:04,057 --> 00:28:05,100
+Hey, Junior.
+
+444
+00:28:07,895 --> 00:28:08,896
+What?
+
+445
+00:28:10,689 --> 00:28:11,982
+We found Macon's weenie.
+
+446
+00:28:18,614 --> 00:28:20,489
+<i>Why are you calling me on your cell?</i>
+
+447
+00:28:20,490 --> 00:28:21,741
+<i>Get to the payphone.</i>
+
+448
+00:28:21,742 --> 00:28:23,327
+I talked to them already, Mama.
+
+449
+00:28:24,203 --> 00:28:25,287
+<i>What did they say?</i>
+
+450
+00:28:27,748 --> 00:28:29,291
+They're not gonna give me the ring.
+
+451
+00:28:30,083 --> 00:28:31,500
+They're making me take it from him.
+
+452
+00:28:31,501 --> 00:28:32,835
+<i>Then take it.</i>
+
+453
+00:28:32,836 --> 00:28:34,629
+<i>Don't tell me you fell for that man.</i>
+
+454
+00:28:34,630 --> 00:28:35,755
+Oh, come on.
+
+455
+00:28:35,756 --> 00:28:37,423
+<i>He is a charming motherfucker.</i>
+
+456
+00:28:37,424 --> 00:28:39,133
+I know exactly what the fuck he is.
+
+457
+00:28:39,134 --> 00:28:41,220
+<i>Good. Don't lose focus.</i>
+
+458
+00:28:42,429 --> 00:28:43,555
+I won't.
+
+459
+00:28:48,143 --> 00:28:49,311
+Mama, I gotta go.
+
+460
+00:29:14,044 --> 00:29:15,587
+Want to put that thing away?
+
+461
+00:29:18,340 --> 00:29:19,549
+What are you doing here?
+
+462
+00:29:21,009 --> 00:29:22,386
+Did Macon send you?
+
+463
+00:29:23,553 --> 00:29:25,347
+No. I came on my own.
+
+464
+00:29:27,057 --> 00:29:28,892
+Then why are you here?
+
+465
+00:30:31,163 --> 00:30:35,042
+I was thinking
+how much better that is not in my truck.
+
+466
+00:30:49,723 --> 00:30:51,433
+This has to be the last time.
+
+467
+00:30:54,895 --> 00:30:55,896
+Okay.
+
+468
+00:30:57,522 --> 00:30:58,899
+Is there a reason why?
+
+469
+00:31:01,151 --> 00:31:04,029
+Well, your choices
+are pretty much leave town or get killed.
+
+470
+00:31:05,906 --> 00:31:08,033
+I really hope you choose the former.
+
+471
+00:31:12,829 --> 00:31:13,830
+I'm sorry.
+
+472
+00:31:16,750 --> 00:31:18,043
+Why are you staying?
+
+473
+00:31:21,129 --> 00:31:25,217
+Because I feel
+like everybody's lying to me.
+
+474
+00:31:27,719 --> 00:31:28,804
+Why?
+
+475
+00:31:31,723 --> 00:31:33,642
+Because that's exactly what I'm doing.
+
+476
+00:31:36,728 --> 00:31:38,480
+You think Jordan is lying to you?
+
+477
+00:31:38,980 --> 00:31:39,981
+Yeah.
+
+478
+00:31:42,192 --> 00:31:43,485
+Do you think I am?
+
+479
+00:31:47,489 --> 00:31:48,532
+Yeah.
+
+480
+00:31:58,250 --> 00:32:01,044
+When I tell you what I know...
+
+481
+00:32:03,088 --> 00:32:04,339
+everything changes.
+
+482
+00:32:07,926 --> 00:32:09,052
+I can't do that.
+
+483
+00:32:09,970 --> 00:32:11,388
+Because of your husband?
+
+484
+00:32:13,890 --> 00:32:15,183
+What do you owe him?
+
+485
+00:32:15,684 --> 00:32:18,145
+You read this all wrong. I don't owe him.
+
+486
+00:32:19,855 --> 00:32:21,022
+He owes me.
+
+487
+00:32:22,149 --> 00:32:24,860
+He was dying
+when I met him and I saved his life.
+
+488
+00:32:25,527 --> 00:32:26,570
+And now...
+
+489
+00:32:27,404 --> 00:32:30,031
+I am trying to save yours.
+
+490
+00:32:36,079 --> 00:32:37,289
+Is that a yes?
+
+491
+00:32:38,540 --> 00:32:39,624
+You'll leave town?
+
+492
+00:32:43,211 --> 00:32:44,337
+Not a chance.
+
+493
+00:32:47,299 --> 00:32:48,425
+<i>Damn.</i>
+
+494
+00:32:50,635 --> 00:32:51,636
+Damn.
+
+495
+00:33:43,605 --> 00:33:45,105
+Where'd it come from?
+
+496
+00:33:45,106 --> 00:33:47,192
+- Forty-five degrees northeast.
+- Just fucking point!
+
+497
+00:34:32,445 --> 00:34:34,280
+Who the hell makes a satellite like this?
+
+498
+00:34:34,281 --> 00:34:39,244
+I've narrowed it down to Atlas,
+Vermond, and Rutger.
+
+499
+00:34:41,162 --> 00:34:43,790
+Macon signed NDAs
+with all three companies.
+
+500
+00:34:44,374 --> 00:34:45,457
+When?
+
+501
+00:34:45,458 --> 00:34:47,294
+All three were over ten years ago.
+
+502
+00:34:47,877 --> 00:34:51,338
+Atlas and Rutger, around 30.
+
+503
+00:34:51,339 --> 00:34:53,591
+It's gotta be one of them then.
+Junior, you almost done?
+
+504
+00:34:53,592 --> 00:34:55,051
+Yeah, good. Almost done.
+
+505
+00:34:56,219 --> 00:34:57,846
+She was his grandmother.
+
+506
+00:34:58,388 --> 00:35:00,223
+What am I supposed to tell Noah?
+
+507
+00:35:07,814 --> 00:35:09,774
+Just tell him we're gonna
+find out whoever did this.
+
+508
+00:35:11,735 --> 00:35:13,777
+Every satellite's registered
+with the government.
+
+509
+00:35:13,778 --> 00:35:14,779
+Can you run that?
+
+510
+00:35:15,322 --> 00:35:18,575
+I can run the serial number
+through the FCC database.
+
+511
+00:35:24,706 --> 00:35:26,958
+It's registered to Atlas, Inc.
+
+512
+00:35:27,626 --> 00:35:30,210
+Owner of Atlas, Inc. is Hector Hammond.
+
+513
+00:35:30,211 --> 00:35:33,547
+Runs a string of high-tech slaughterhouses
+across the country.
+
+514
+00:35:33,548 --> 00:35:37,302
+No record of him anywhere before 1986.
+
+515
+00:35:37,927 --> 00:35:39,596
+Where's his nearest slaughterhouse?
+
+516
+00:35:40,722 --> 00:35:42,056
+Ninety-five miles away.
+
+517
+00:35:42,057 --> 00:35:44,141
+That's where he's gonna be then.
+I'd bet Junior's life on it.
+
+518
+00:35:44,142 --> 00:35:46,353
+- What do you say?
+- I think it seems too easy.
+
+519
+00:35:48,188 --> 00:35:49,271
+Elaborate.
+
+520
+00:35:49,272 --> 00:35:51,148
+You're the space cop.
+Where's the investigation?
+
+521
+00:35:51,149 --> 00:35:53,652
+You think we just cracked
+the case in this motel room?
+
+522
+00:35:55,904 --> 00:35:56,987
+Go on.
+
+523
+00:35:56,988 --> 00:35:59,991
+Well, he's got all these satellites
+that can kill us all at any time.
+
+524
+00:36:01,201 --> 00:36:02,452
+But we're still alive.
+
+525
+00:36:02,994 --> 00:36:05,121
+And why did he choose
+to kill Zoe and not us?
+
+526
+00:36:07,582 --> 00:36:09,709
+Because killing Zoe
+was more than just a threat.
+
+527
+00:36:10,335 --> 00:36:11,752
+It was an invitation.
+
+528
+00:36:11,753 --> 00:36:15,215
+Jesus, Junior. That's not bad. Nice work.
+
+529
+00:36:16,549 --> 00:36:17,550
+Thanks.
+
+530
+00:36:22,389 --> 00:36:24,140
+Hey, Earth to Stewart.
+
+531
+00:36:27,477 --> 00:36:28,603
+<i>Earth to Stewart.</i>
+
+532
+00:36:30,855 --> 00:36:32,232
+How you doing?
+
+533
+00:36:35,819 --> 00:36:36,902
+What?
+
+534
+00:36:36,903 --> 00:36:39,030
+You have never asked me that before.
+
+535
+00:36:41,449 --> 00:36:43,201
+Your girlfriend blew up in front of you.
+
+536
+00:36:44,994 --> 00:36:46,079
+I'm handling it.
+
+537
+00:36:49,207 --> 00:36:51,292
+Kinda look like
+you're shutting down your feelings.
+
+538
+00:36:56,297 --> 00:36:57,507
+It's part of the job.
+
+539
+00:36:58,341 --> 00:37:00,135
+People dying is part of the job.
+
+540
+00:37:02,887 --> 00:37:04,097
+You want some advice?
+
+541
+00:37:06,891 --> 00:37:09,018
+Avoid real relationships from here on out.
+
+542
+00:37:09,519 --> 00:37:12,439
+Keep people at a distance
+for their own safety.
+
+543
+00:37:16,359 --> 00:37:18,486
+It's a lonely fucking job.
+
+544
+00:37:22,907 --> 00:37:25,076
+You ever talk with the other Lanterns?
+
+545
+00:37:26,703 --> 00:37:28,746
+I'm the only human. They're aliens.
+
+546
+00:37:28,747 --> 00:37:30,080
+One of them's a fucking squirrel.
+
+547
+00:37:30,081 --> 00:37:32,667
+- Nobody like me.
+- I'm like you. I'm human.
+
+548
+00:37:34,961 --> 00:37:36,044
+That you are.
+
+549
+00:37:36,045 --> 00:37:38,130
+Yet you hate having me as a backup.
+
+550
+00:37:38,131 --> 00:37:39,132
+I do.
+
+551
+00:37:40,341 --> 00:37:41,509
+What's the plan?
+
+552
+00:37:44,179 --> 00:37:45,180
+I say...
+
+553
+00:37:46,681 --> 00:37:48,349
+we walk straight into his trap.
+
+554
+00:37:50,518 --> 00:37:51,853
+You wanna hear my idea?
+
+555
+00:37:52,854 --> 00:37:54,272
+I say you give me the ring.
+
+556
+00:37:54,814 --> 00:37:56,774
+Okay, Hammond's gonna
+expect you to have it,
+
+557
+00:37:56,775 --> 00:37:58,109
+not me, element of surprise.
+
+558
+00:37:58,985 --> 00:38:00,694
+- So I'm a decoy.
+- Yeah, you would be.
+
+559
+00:38:00,695 --> 00:38:03,363
+Oh, this isn't a training exercise.
+You're good, but you're no me.
+
+560
+00:38:03,364 --> 00:38:04,532
+Maybe next time.
+
+561
+00:38:05,033 --> 00:38:06,034
+Hey.
+
+562
+00:38:06,576 --> 00:38:07,911
+I like the confidence, though.
+
+563
+00:38:17,962 --> 00:38:20,297
+<i>Remember, security.</i>
+
+564
+00:38:20,298 --> 00:38:22,759
+<i>The first step towards
+a safer environment.</i>
+
+565
+00:38:23,343 --> 00:38:25,720
+<i>Stay secure, stay vigilant.</i>
+
+566
+00:38:28,890 --> 00:38:30,099
+<i>Remember, security.</i>
+
+567
+00:38:30,600 --> 00:38:32,977
+<i>The first step
+towards a safer environment.</i>
+
+568
+00:38:33,937 --> 00:38:35,897
+<i>Stay secure, stay vigilant.</i>
+
+569
+00:39:01,798 --> 00:39:03,925
+Hey, where's Hammond?
+
+570
+00:39:23,862 --> 00:39:25,571
+I'm about done
+with these weird-ass people.
+
+571
+00:39:25,572 --> 00:39:26,573
+Agreed.
+
+572
+00:39:45,425 --> 00:39:48,428
+Jazz, that can't be good.
+
+573
+00:40:06,404 --> 00:40:07,822
+Well, we found the cows.
+
+574
+00:40:46,736 --> 00:40:47,862
+That's why I'm vegan.
+
+575
+00:41:08,633 --> 00:41:10,175
+Mr. Hammond, I assume.
+
+576
+00:41:10,176 --> 00:41:12,010
+3248 Aspen Way.
+
+577
+00:41:12,011 --> 00:41:14,639
+- How's that?
+- That's my parents' address.
+
+578
+00:41:15,431 --> 00:41:17,684
+I've already shown you
+what my satellites are capable of.
+
+579
+00:41:18,601 --> 00:41:20,645
+In exactly three minutes
+
+580
+00:41:21,562 --> 00:41:23,981
+one of them
+will obliterate your childhood home,
+
+581
+00:41:23,982 --> 00:41:26,733
+unless I enter a code onto this laptop.
+
+582
+00:41:26,734 --> 00:41:28,694
+You kill me, you kill them.
+
+583
+00:41:28,695 --> 00:41:29,820
+Yeah, that's great.
+
+584
+00:41:29,821 --> 00:41:32,197
+Dead man's trigger.
+Don't act like you invented it.
+
+585
+00:41:32,198 --> 00:41:34,408
+Look, you invited us here.
+Let's get down to business, huh?
+
+586
+00:41:34,409 --> 00:41:37,327
+You can save them, John.
+Would you like to know how?
+
+587
+00:41:37,328 --> 00:41:39,037
+Don't talk to him. You talk to me.
+
+588
+00:41:39,038 --> 00:41:40,831
+You were approached
+by a group of individuals
+
+589
+00:41:40,832 --> 00:41:42,165
+searching for me.
+
+590
+00:41:42,166 --> 00:41:44,209
+They gave you a phone. Call them.
+
+591
+00:41:44,210 --> 00:41:45,670
+Tell them you found me right here.
+
+592
+00:41:46,462 --> 00:41:49,381
+All right, so you can use
+the old, uh, cow laser on them.
+
+593
+00:41:49,382 --> 00:41:51,049
+All right, that... that's clever.
+
+594
+00:41:51,050 --> 00:41:52,467
+Quick question.
+
+595
+00:41:52,468 --> 00:41:53,844
+How do you know about John's phone?
+
+596
+00:41:53,845 --> 00:41:58,015
+Is he always like this?
+It must be insufferable.
+
+597
+00:41:58,016 --> 00:42:00,017
+You're gonna suffer
+if you don't start talking to me.
+
+598
+00:42:00,018 --> 00:42:01,936
+- I'm the one with the ring.
+- For now.
+
+599
+00:42:02,562 --> 00:42:03,645
+What does that mean?
+
+600
+00:42:03,646 --> 00:42:06,816
+When you checked into the motel,
+I decided it best to listen in.
+
+601
+00:42:07,400 --> 00:42:09,401
+I've been monitoring
+your conversations there.
+
+602
+00:42:09,402 --> 00:42:10,945
+Most of them were boring.
+
+603
+00:42:12,822 --> 00:42:13,823
+Most.
+
+604
+00:42:16,659 --> 00:42:18,744
+<i>That's because he's old.</i>
+
+605
+00:42:18,745 --> 00:42:21,539
+<i>And he's tired. And his time is up.</i>
+
+606
+00:42:23,041 --> 00:42:25,333
+<i>He's not worthy
+of the "massive power" of the ring.</i>
+
+607
+00:42:25,334 --> 00:42:28,128
+<i>He didn't do shit to earn it.
+And every time he looks at me,</i>
+
+608
+00:42:28,129 --> 00:42:31,590
+<i>he realizes that I'll do this better
+than he's ever done it before</i>
+
+609
+00:42:31,591 --> 00:42:33,968
+<i>because I've worked
+my entire fucking life for it.</i>
+
+610
+00:42:37,221 --> 00:42:38,931
+<i>The ring's always been mine.</i>
+
+611
+00:42:40,600 --> 00:42:42,351
+<i>That asshole's just keeping it warm.</i>
+
+612
+00:42:43,019 --> 00:42:44,353
+<i>Then go and get it.</i>
+
+613
+00:42:46,064 --> 00:42:47,565
+You're obsolete, Mr. Jordan.
+
+614
+00:42:48,107 --> 00:42:51,610
+Replaced by a new
+and vastly improved model.
+
+615
+00:42:51,611 --> 00:42:53,654
+That must be terrifying.
+
+616
+00:42:55,031 --> 00:42:57,491
+- What color is Abin Sur?
+- What?
+
+617
+00:42:57,492 --> 00:42:58,992
+The fellow who gave me this ring,
+
+618
+00:42:58,993 --> 00:43:01,661
+who dropped you off
+on this planet before he died?
+
+619
+00:43:01,662 --> 00:43:03,664
+You're the Manhunter. What color was he?
+
+620
+00:43:05,875 --> 00:43:08,376
+- I don't remember.
+- He was a very memorable shade.
+
+621
+00:43:08,377 --> 00:43:09,878
+I've met a lot of aliens.
+
+622
+00:43:09,879 --> 00:43:11,172
+I don't think you have.
+
+623
+00:43:12,381 --> 00:43:13,799
+I think you're bullshit.
+
+624
+00:43:13,800 --> 00:43:16,594
+I think you're a smokescreen
+for someone else. A decoy.
+
+625
+00:43:17,512 --> 00:43:18,721
+One minute and counting.
+
+626
+00:43:19,388 --> 00:43:20,764
+You know, an old friend of mine
+
+627
+00:43:20,765 --> 00:43:22,849
+recently told me
+something about Manhunters.
+
+628
+00:43:22,850 --> 00:43:24,726
+Very good at replicating other organisms,
+
+629
+00:43:24,727 --> 00:43:25,770
+nearly perfect.
+
+630
+00:43:26,270 --> 00:43:29,065
+But when it comes
+to copying carbon-based life forms,
+
+631
+00:43:29,857 --> 00:43:32,443
+the only organ
+you can't get just right is the heart.
+
+632
+00:43:33,069 --> 00:43:36,489
+It's an undetectable flaw,
+when you're alive.
+
+633
+00:43:37,156 --> 00:43:40,660
+But once your heart stops,
+it crystallizes.
+
+634
+00:43:41,661 --> 00:43:43,830
+So the only way
+to prove that you're a Manhunter
+
+635
+00:43:44,664 --> 00:43:46,540
+is to rip your fucking heart out.
+
+636
+00:43:46,541 --> 00:43:48,250
+You kill me, his parents die.
+
+637
+00:43:48,251 --> 00:43:49,835
+I got no problem with that.
+
+638
+00:43:49,836 --> 00:43:52,379
+I mean, I would have given
+a shit before the recording,
+
+639
+00:43:52,380 --> 00:43:54,005
+but now I'm starting to think, you know,
+
+640
+00:43:54,006 --> 00:43:57,467
+a hero's journey, it should really
+only start after the parents are dead.
+
+641
+00:43:57,468 --> 00:43:59,719
+- The fuck are you doing?
+- You kill Stewart's family,
+
+642
+00:43:59,720 --> 00:44:01,472
+I got no reason to keep you alive.
+
+643
+00:44:02,765 --> 00:44:05,143
+So you got
+about ten seconds to tell me the truth.
+
+644
+00:44:05,935 --> 00:44:07,228
+- Hal.
+- Nine.
+
+645
+00:44:07,812 --> 00:44:09,104
+- Eight.
+- Stop.
+
+646
+00:44:09,105 --> 00:44:10,730
+- Seven.
+- Stop!
+
+647
+00:44:10,731 --> 00:44:11,940
+- Six.
+- Stop!
+
+648
+00:44:11,941 --> 00:44:13,192
+I'm human! I'm human!
+
+649
+00:44:14,110 --> 00:44:15,778
+Fucking put in that code right now.
+
+650
+00:44:23,202 --> 00:44:25,830
+- They're safe.
+- What if you were fucking wrong?
+
+651
+00:44:26,914 --> 00:44:28,040
+I'm never wrong.
+
+652
+00:44:29,834 --> 00:44:30,918
+Okay.
+
+653
+00:44:32,044 --> 00:44:33,254
+Okay, who are you?
+
+654
+00:44:34,505 --> 00:44:38,050
+- Who the fuck are you? Speak up!
+- I'm Hector Gutierrez.
+
+655
+00:44:39,635 --> 00:44:41,219
+I was an engineering student.
+
+656
+00:44:41,220 --> 00:44:44,014
+He came to me,
+offering me incredible technology,
+
+657
+00:44:44,015 --> 00:44:45,599
+said I could use it to help my family,
+
+658
+00:44:45,600 --> 00:44:47,977
+- my community.
+- Who the fuck is the Manhunter?
+
+659
+00:44:49,854 --> 00:44:51,063
+Isn't it obvious?
+
+660
+00:44:54,275 --> 00:44:55,860
+Will Macon.
+
+661
+00:45:21,719 --> 00:45:23,179
+I was gonna give it back.
+
+662
+00:45:24,388 --> 00:45:25,389
+What?
+
+663
+00:45:29,101 --> 00:45:32,647
+At Macon's ranch, I was wearing the ring.
+
+664
+00:45:35,024 --> 00:45:37,109
+All I needed to do was say the oath.
+
+665
+00:45:38,402 --> 00:45:39,612
+But I didn't.
+
+666
+00:45:41,781 --> 00:45:43,366
+And when I asked for it again,
+
+667
+00:45:43,908 --> 00:45:46,118
+I just wanted to show you
+what I was capable of.
+
+668
+00:45:49,038 --> 00:45:50,039
+I believe you.
+
+669
+00:45:50,998 --> 00:45:52,875
+- It's all good.
+- Really?
+
+670
+00:45:54,669 --> 00:45:56,504
+Honestly, I'd have done the same thing.
+
+671
+00:45:57,213 --> 00:45:59,422
+And what you said wasn't all untrue.
+
+672
+00:45:59,423 --> 00:46:01,091
+I didn't do much to earn this thing.
+
+673
+00:46:01,092 --> 00:46:04,470
+And there's a very good chance
+that you might end up being better.
+
+674
+00:46:07,515 --> 00:46:10,142
+I can be a bit of an asshole at times.
+
+675
+00:46:15,189 --> 00:46:17,400
+You know, the Guardian
+said you broke a vow.
+
+676
+00:46:19,110 --> 00:46:21,237
+You believe everything they say.
+
+677
+00:46:22,280 --> 00:46:23,990
+You ought to give that a rest.
+
+678
+00:46:24,532 --> 00:46:26,575
+I mean, look what they're doing to me now.
+
+679
+00:46:27,201 --> 00:46:29,161
+But that said, I did break a vow.
+
+680
+00:46:30,913 --> 00:46:32,540
+Went to see Sinestro.
+
+681
+00:46:33,874 --> 00:46:35,668
+So he told you about the crystal heart?
+
+682
+00:46:36,168 --> 00:46:37,669
+Among other things.
+
+683
+00:46:37,670 --> 00:46:39,046
+They're ruthless, Junior.
+
+684
+00:46:39,714 --> 00:46:42,632
+They assimilate into communities
+by attaching to weak spots.
+
+685
+00:46:42,633 --> 00:46:44,010
+It's what they're programmed to do.
+
+686
+00:46:44,677 --> 00:46:47,012
+So what you're saying
+is they have no other choice?
+
+687
+00:46:47,013 --> 00:46:48,555
+They find a path to power every time,
+
+688
+00:46:48,556 --> 00:46:50,683
+and if they identify
+a threat to that power,
+
+689
+00:46:51,183 --> 00:46:52,475
+they'll manipulate that threat
+
+690
+00:46:52,476 --> 00:46:54,270
+into believing anything they want them to.
+
+691
+00:46:55,980 --> 00:46:57,440
+Remind you of anyone we know?
+
+692
+00:47:08,492 --> 00:47:09,660
+Yeah, it must be Macon.
+
+693
+00:47:11,495 --> 00:47:12,663
+Like Hector said.
+
+694
+00:47:16,542 --> 00:47:17,543
+Yeah.
+
+695
+00:47:32,183 --> 00:47:33,934
+Call that alien hit squad.
+
+696
+00:47:35,853 --> 00:47:37,854
+Tell them to meet us at the cafe.
+
+697
+00:47:37,855 --> 00:47:39,190
+Nah, they don't trust you.
+
+698
+00:47:41,192 --> 00:47:43,569
+Why don't you tell them
+to meet you at the cafe, then?
+
+699
+00:47:45,196 --> 00:47:46,238
+They trust you.
+
+700
+00:47:55,164 --> 00:47:56,207
+Yeah.
+
+701
+00:48:04,840 --> 00:48:07,885
+<i>- Yeah?</i>
+- I've got who we're looking for.
+
+702
+00:48:09,512 --> 00:48:10,595
+<i>That's good.</i>
+
+703
+00:48:10,596 --> 00:48:14,392
+Meet me at the cafe
+just outside of Rushville.
+
+704
+00:48:16,602 --> 00:48:17,728
+<i>We're close.</i>
+
+705
+00:48:20,481 --> 00:48:21,482
+Yeah.
+
+706
+00:48:29,824 --> 00:48:30,825
+What?
+
+707
+00:48:32,284 --> 00:48:34,120
+I really did forgive you.
+
+708
+00:48:37,164 --> 00:48:38,582
+Thought you'd be honest.
+
+709
+00:48:43,712 --> 00:48:44,713
+About what?
+
+710
+00:48:45,256 --> 00:48:48,174
+When Zoe blew up,
+I didn't get why you weren't upset.
+
+711
+00:48:48,175 --> 00:48:50,010
+I thought you were made of stone.
+
+712
+00:48:51,720 --> 00:48:53,639
+I wondered why you weren't sad.
+
+713
+00:48:55,141 --> 00:48:56,475
+I knew you liked her.
+
+714
+00:48:58,644 --> 00:48:59,854
+Now, with Hector,
+
+715
+00:49:00,729 --> 00:49:02,815
+when you freaked out
+about your parents, and...
+
+716
+00:49:03,482 --> 00:49:04,733
+it kinda all hit me.
+
+717
+00:49:06,277 --> 00:49:07,903
+You ain't made of stone, Junior.
+
+718
+00:49:09,405 --> 00:49:12,157
+You aren't upset
+because you know Zoe isn't dead.
+
+719
+00:49:12,158 --> 00:49:13,491
+And I don't know how she managed
+
+720
+00:49:13,492 --> 00:49:15,660
+to get out of that car alive
+unless she's a Manhunter.
+
+721
+00:49:15,661 --> 00:49:17,329
+The thing that I can't figure out
+
+722
+00:49:17,872 --> 00:49:19,123
+is how long you've known.
+
+723
+00:49:20,666 --> 00:49:22,334
+I didn't know. I just had a feeling.
+
+724
+00:49:22,835 --> 00:49:24,961
+Fuck feeling, that's your gut, Junior.
+
+725
+00:49:24,962 --> 00:49:26,838
+- Yeah.
+- Well, bravo.
+
+726
+00:49:26,839 --> 00:49:28,590
+Congratulations, truly.
+
+727
+00:49:28,591 --> 00:49:31,050
+The student surpasses the teacher.
+
+728
+00:49:31,051 --> 00:49:33,261
+I wasn't trying to keep anything from you.
+
+729
+00:49:33,262 --> 00:49:35,889
+I just didn't know for certain,
+so I didn't want to say anything.
+
+730
+00:49:35,890 --> 00:49:37,307
+Oh, you haven't told the Guardians?
+
+731
+00:49:37,308 --> 00:49:39,517
+I haven't told the Guardians
+anything we've been doing
+
+732
+00:49:39,518 --> 00:49:40,977
+because you asked me not to.
+
+733
+00:49:40,978 --> 00:49:42,938
+- Right?
+- Except that I'm old and tired.
+
+734
+00:49:46,150 --> 00:49:47,610
+Well, I'm sorry about that.
+
+735
+00:49:48,986 --> 00:49:50,362
+I'm sorry about the rental.
+
